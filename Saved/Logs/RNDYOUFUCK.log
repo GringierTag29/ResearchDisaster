@@ -391,3 +391,7 @@ LogInit: Object subsystem initialized
 [2017.12.26-16.43.04:166][987]Cmd: MAP CHECKDEP NOCLEARLOG
 [2017.12.26-16.43.04:223][987]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.508ms to complete.
 [2017.12.26-16.43.04:224][987]LogFileHelpers: Loading map 'RnDmap' took 0.186
+[2017.12.26-16.43.36:240][918]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-16.43.36:240][918]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-16.44.24:039][989]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-16.44.24:039][989]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
