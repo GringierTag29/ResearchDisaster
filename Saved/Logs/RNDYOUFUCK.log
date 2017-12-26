@@ -378,3 +378,5 @@ LogInit: Object subsystem initialized
 [2017.12.26-16.41.26:558][121]LogSavePackage: Save=195.08ms
 [2017.12.26-16.41.26:559][121]LogSavePackage: Moving '../../../../Disaster/RNDYOUFUCK/ResearchDisaster/Saved/RnDmap_BuiltData3DC178F7464887882588148CEE175079.tmp' to '../../../../Disaster/RNDYOUFUCK/ResearchDisaster/Content/RnDmap_BuiltData.uasset'
 [2017.12.26-16.41.26:559][121]LogSavePackage: Display: Finished SavePackage ../../../../Disaster/RNDYOUFUCK/ResearchDisaster/Content/RnDmap_BuiltData.uasset
+[2017.12.26-16.42.18:296][554]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.26-16.42.21:661][882]Cmd: SELECT NONE
