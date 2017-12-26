@@ -364,3 +364,7 @@ LogInit: Object subsystem initialized
 [2017.12.26-16.41.04:546][330]LogSavePackage: Save=179.74ms
 [2017.12.26-16.41.04:546][330]LogSavePackage: Moving '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/RnDmap_BuiltDataF48691F84EF7288B6A124A86228EB8C3.tmp' to '../../../../../../Documents/GitHub/ResearchDisaster1/Content/RnDmap_BuiltData.uasset'
 [2017.12.26-16.41.04:548][330]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/ResearchDisaster1/Content/RnDmap_BuiltData.uasset
+[2017.12.26-16.41.33:079][459]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-16.41.33:080][459]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-16.42.12:392][ 40]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-16.42.12:392][ 40]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
