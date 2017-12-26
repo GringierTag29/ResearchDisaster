@@ -1,0 +1,1260 @@
+﻿Log file open, 12/26/17 17:01:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: RNDYOUFUCK
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(744163871) SRandInit(744163871).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.185548
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.26-12.01.56:525][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.26-12.01.56:525][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.26-12.01.56:583][  0]LogInit: Computer: ASUS
+[2017.12.26-12.01.56:583][  0]LogInit: User: Pavel
+[2017.12.26-12.01.56:583][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.26-12.01.56:583][  0]LogInit: High frequency timer resolution =3.125020 MHz
+[2017.12.26-12.01.56:583][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2017.12.26-12.01.56:583][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.26-12.01.56:583][  0]LogMemory: Process Physical Memory: 272.87 MB used, 272.87 MB peak
+[2017.12.26-12.01.56:583][  0]LogMemory: Process Virtual Memory: 271.58 MB used, 271.58 MB peak
+[2017.12.26-12.01.56:583][  0]LogMemory: Physical Memory: 6200.87 MB used,  6020.60 MB free, 12221.47 MB total
+[2017.12.26-12.01.56:583][  0]LogMemory: Virtual Memory: 645.50 MB used,  6020.60 MB free, 134217728.00 MB total
+[2017.12.26-12.01.56:784][  0]LogInit: Using OS detected language (en-US).
+[2017.12.26-12.01.56:784][  0]LogInit: Using OS detected locale (ru-RU).
+[2017.12.26-12.01.56:920][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.26-12.01.56:921][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en-US' will be used for the locale.
+[2017.12.26-12.01.57:447][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.26-12.02.00:209][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.26-12.02.00:281][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2017.12.26-12.02.00:281][  0]LogD3D11RHI:       2017/0/6110 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.26-12.02.00:282][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.26-12.02.00:282][  0]LogD3D11RHI:       0/0/6110 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.26-12.02.00:282][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.26-12.02.00:289][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.26-12.02.00:289][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.26-12.02.00:289][  0]LogWindows: EnumDisplayDevices:
+[2017.12.26-12.02.00:289][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2017.12.26-12.02.00:289][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.12.26-12.02.00:289][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.12.26-12.02.00:289][  0]LogWindows:    3. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.12.26-12.02.00:289][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.12.26-12.02.00:289][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2017.12.26-12.02.00:289][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2017.12.26-12.02.00:289][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2017.12.26-12.02.00:289][  0]LogRHI: Texture pool is 1412 MB (70% of 2017 MB)
+[2017.12.26-12.02.00:326][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.26-12.02.00:338][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.26-12.02.00:339][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../../../Documents/GitHub/ResearchDisaster1/Intermediate/Shaders/WorkingDirectory/7836/).
+[2017.12.26-12.02.00:340][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Павел/AppData/Local/Temp/UnrealShaderWorkingDir/8A32B2454F137B1C2679E18AD3840D82/'.
+[2017.12.26-12.02.00:340][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.26-12.02.03:083][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.26-12.02.03:149][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.26-12.02.03:216][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.26-12.02.03:286][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.26-12.02.03:373][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.26-12.02.03:444][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.26-12.02.03:512][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.26-12.02.03:578][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.26-12.02.03:637][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.26-12.02.03:703][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.26-12.02.03:772][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.26-12.02.03:843][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.26-12.02.03:915][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.26-12.02.03:981][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.26-12.02.04:114][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.26-12.02.04:114][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.26-12.02.04:193][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.26-12.02.04:244][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.26-12.02.04:365][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.26-12.02.04:399][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.26-12.02.04:465][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.26-12.02.04:536][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.26-12.02.04:604][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.26-12.02.04:677][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.26-12.02.04:677][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.26-12.02.05:316][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.26-12.02.05:588][  0]LogDerivedDataCache: Loaded boot cache 0.27s 78MB C:/Users/Павел/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.26-12.02.05:588][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Павел/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.26-12.02.05:589][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Documents/GitHub/ResearchDisaster1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.26-12.02.05:589][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.26-12.02.05:589][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Documents/GitHub/ResearchDisaster1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.26-12.02.05:589][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.26-12.02.05:607][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.26-12.02.05:619][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Павел/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.26-12.02.05:634][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.26-12.02.05:635][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.26-12.02.05:659][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.26-12.02.05:660][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.26-12.02.06:747][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.26-12.02.07:288][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.26-12.02.07:343][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.26-12.02.07:343][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.26-12.02.07:343][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.26-12.02.07:343][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.26-12.02.07:343][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.26-12.02.07:378][  0]LogNetVersion: RNDYOUFUCK , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 762423528)
+[2017.12.26-12.02.07:594][  0]LogAssetRegistry: FAssetRegistry took 0.0317 seconds to start up
+[2017.12.26-12.02.09:277][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 1.110059 seconds
+[2017.12.26-12.02.09:284][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.26-12.02.09:285][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2017.12.26-12.02.09:285][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.26-12.02.09:360][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.26-12.02.43:774][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.26-12.02.43:825][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.26-12.02.45:444][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.26-12.02.46:215][  0]SourceControl: Source control is disabled
+[2017.12.26-12.02.46:215][  0]SourceControl: Source control is disabled
+[2017.12.26-12.02.46:280][  0]SourceControl: Source control is disabled
+[2017.12.26-12.02.46:343][  0]SourceControl: Source control is disabled
+[2017.12.26-12.02.47:437][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.26-12.02.47:766][  0]LogOcInput: OculusInput pre-init called
+[2017.12.26-12.02.48:171][  0]LogEngine: Initializing Engine...
+[2017.12.26-12.02.48:176][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2017.12.26-12.02.48:841][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.26-12.02.48:841][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.26-12.02.49:021][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.26-12.02.49:028][  0]LogInit: XAudio2 using 'Динамики (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.26-12.02.49:043][  0]LogInit: FAudioDevice initialized.
+[2017.12.26-12.02.49:189][  0]LogDerivedDataCache: Saved boot cache 0.15s 78MB C:/Users/Павел/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.26-12.02.49:206][  0]LogInit: Texture streaming: Enabled
+[2017.12.26-12.02.49:334][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.26-12.02.49:502][  0]LogInit: Transaction tracking system initialized
+[2017.12.26-12.02.49:894][  0]BlueprintLog: New page: Editor Load
+[2017.12.26-12.02.51:177][  0]LocalizationService: Localization service is disabled
+[2017.12.26-12.02.52:607][  0]LogConsoleResponse: Display: 
+[2017.12.26-12.02.53:634][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.26-12.02.53:634][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.26-12.02.53:634][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.26-12.02.54:656][  0]LogFileCache: Scanning file cache for directory 'C:/Documents/GitHub/ResearchDisaster1/Content/' took 0.02s
+[2017.12.26-12.02.55:921][  0]SourceControl: Source control is disabled
+[2017.12.26-12.02.55:921][  0]Cmd: MAP LOAD FILE="../../../../../../Documents/GitHub/ResearchDisaster1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.26-12.02.55:966][  0]LogEditorServer: Warning: Can't find file '../../../../../../Documents/GitHub/ResearchDisaster1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.12.26-12.02.55:967][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.26-12.02.56:029][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.759ms to complete.
+[2017.12.26-12.02.56:030][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.108
+[2017.12.26-12.02.56:090][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-12.02.56:091][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-12.02.56:312][  0]LogCollectionManager: Loaded 0 collections in 0.001911 seconds
+[2017.12.26-12.02.56:415][  0]LogFileCache: Scanning file cache for directory 'C:/Documents/GitHub/ResearchDisaster1/Saved/Collections/' took 0.01s
+[2017.12.26-12.02.56:415][  0]LogFileCache: Scanning file cache for directory 'C:/Documents/GitHub/ResearchDisaster1/Content/Developers/Pavel/Collections/' took 0.01s
+[2017.12.26-12.02.56:415][  0]LogFileCache: Scanning file cache for directory 'C:/Documents/GitHub/ResearchDisaster1/Content/Collections/' took 0.01s
+[2017.12.26-12.02.56:415][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.26-12.02.56:425][  0]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 2363 classes and 519 folders.
+[2017.12.26-12.02.56:516][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.12.26-12.02.58:728][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.12.26-12.02.58:840][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.26-12.02.58:867][  0]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.26-12.02.58:869][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.26-12.02.58:900][  0]LogSlate: Took 0.024760 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.26-12.02.59:122][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.12.26-12.02.59:387][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.26-12.02.59:387][  0]LogLoad: (Engine Initialization) Total time: 67.75 seconds
+[2017.12.26-12.02.59:387][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.26-12.02.59:388][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.26-12.02.59:388][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.26-12.02.59:634][  0]LogEditorViewport: Clicking Background
+[2017.12.26-12.02.59:648][  0]LogEditorViewport: Clicking Background
+[2017.12.26-12.02.59:680][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.26-12.02.59:774][  1]LogAssetRegistry: Asset discovery search completed in 52.2012 seconds
+[2017.12.26-12.02.59:775][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.12.26-12.02.59:775][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2017.12.26-12.03.03:776][356]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.26-12.03.30:558][289]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.26-12.03.35:044][764]LogAIModule: Creating AISystem for world RnDmap
+[2017.12.26-12.03.35:109][764]Cmd: MAP LOAD FILE="../../../../../../Documents/GitHub/ResearchDisaster1/Content/RnDmap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.26-12.03.35:109][764]LightingResults: New page: Lighting Build
+[2017.12.26-12.03.35:162][764]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2017.12.26-12.03.35:163][764]LoadErrors: New page: Loading map: RnDmap.umap
+[2017.12.26-12.03.35:163][764]MapCheck: New page: Map Check
+[2017.12.26-12.03.35:163][764]LightingResults: New page: Lighting Build
+[2017.12.26-12.03.35:283][764]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.26-12.03.35:321][764]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.26-12.03.35:382][764]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61.468ms to complete.
+[2017.12.26-12.03.35:382][764]LogFileHelpers: Loading map 'RnDmap' took 0.275
+[2017.12.26-12.03.44:825][833]LogActorFactory: Actor Factory created Cube
+[2017.12.26-12.03.45:898][949]LogActorFactory: Actor Factory created Cube
+[2017.12.26-12.04.25:229][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.12.26-12.04.25:806][640]Cmd: DELETE
+[2017.12.26-12.04.25:806][640]Cmd: ACTOR DELETE
+[2017.12.26-12.04.26:031][640]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.26-12.04.26:042][640]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.12.26-12.04.28:127][884]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.26-12.05.36:440][799]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:12762).
+[2017.12.26-12.05.36:482][800]LogRenderer: Reallocating scene render targets to support 1208x588 Format 10 NumSamples 1 (Frame:12764).
+[2017.12.26-12.05.36:527][801]LogRenderer: Reallocating scene render targets to support 1208x608 Format 10 NumSamples 1 (Frame:12766).
+[2017.12.26-12.05.36:574][802]LogRenderer: Reallocating scene render targets to support 1208x648 Format 10 NumSamples 1 (Frame:12768).
+[2017.12.26-12.05.36:661][803]LogRenderer: Reallocating scene render targets to support 1208x684 Format 10 NumSamples 1 (Frame:12770).
+[2017.12.26-12.05.36:747][804]LogRenderer: Reallocating scene render targets to support 1208x720 Format 10 NumSamples 1 (Frame:12772).
+[2017.12.26-12.05.36:823][805]LogRenderer: Reallocating scene render targets to support 1208x752 Format 10 NumSamples 1 (Frame:12774).
+[2017.12.26-12.05.36:912][806]LogRenderer: Reallocating scene render targets to support 1208x792 Format 10 NumSamples 1 (Frame:12776).
+[2017.12.26-12.05.36:995][807]LogRenderer: Reallocating scene render targets to support 1208x824 Format 10 NumSamples 1 (Frame:12778).
+[2017.12.26-12.05.37:058][808]LogRenderer: Reallocating scene render targets to support 1208x832 Format 10 NumSamples 1 (Frame:12780).
+[2017.12.26-12.05.37:128][809]LogRenderer: Reallocating scene render targets to support 1208x840 Format 10 NumSamples 1 (Frame:12782).
+[2017.12.26-12.05.37:202][810]LogRenderer: Reallocating scene render targets to support 1208x848 Format 10 NumSamples 1 (Frame:12784).
+[2017.12.26-12.06.15:874][956]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.26-12.06.53:060][960]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
+[2017.12.26-12.06.55:419][202]LogSlate: Took 0.017068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.26-12.07.04:141][ 52]Cmd: TRANSACTION UNDO
+[2017.12.26-12.07.04:141][ 52]LogEditorTransaction: Undo Create Actors
+[2017.12.26-12.07.04:267][ 52]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.26-12.08.05:300][663]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
+[2017.12.26-12.08.05:386][663]LogEditorViewport: Clicking on Component (LMB): CapsuleComponent (CollisionCylinder)
+[2017.12.26-12.08.06:113][723]Cmd: EDCALLBACK SURFPROPS
+[2017.12.26-12.08.06:767][788]LogEditorViewport: Clicking on Actor (double click): Character (Character)
+[2017.12.26-12.08.07:097][806]Cmd: EDCALLBACK SURFPROPS
+[2017.12.26-12.08.36:822][394]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2017.12.26-12.08.36:826][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:826][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:826][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:826][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:826][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:826][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:826][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:826][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:827][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:827][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:827][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:827][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:827][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:827][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:827][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:827][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:827][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:827][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:827][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:827][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:827][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:827][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:827][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:827][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:828][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:828][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:828][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:828][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:828][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:828][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:828][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:828][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:828][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:828][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:828][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:828][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:828][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:828][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:828][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:828][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:828][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:829][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:829][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:829][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:829][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:829][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:829][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:829][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:829][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:829][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:829][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:829][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:829][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:829][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:829][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:829][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:829][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:829][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:830][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:830][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:830][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:830][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:830][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:830][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:830][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:830][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:830][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:830][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:830][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:830][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:830][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:830][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:830][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:830][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:831][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:831][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:831][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:831][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:831][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:831][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:831][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:831][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:831][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:831][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:831][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:831][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:831][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:831][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:831][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:831][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:832][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:832][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:832][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:832][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:832][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:832][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:833][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:834][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:836][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:849][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:852][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:853][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:853][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:853][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:853][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:856][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:857][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:860][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:862][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:862][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:862][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:862][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:863][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:863][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:864][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:872][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:872][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:872][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:886][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.36:886][394]LogVSAccessor: Warning: Couldn't access module table
+[2017.12.26-12.08.59:423][692]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-12.08.59:423][692]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-12.09.44:453][828]Cmd: DELETE
+[2017.12.26-12.09.44:453][828]Cmd: ACTOR DELETE
+[2017.12.26-12.09.44:456][828]LogEditorActor: Deleted Actor: Character
+[2017.12.26-12.09.44:467][828]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2017.12.26-12.09.44:870][874]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2017.12.26-12.09.45:022][875]Cmd: DELETE
+[2017.12.26-12.09.45:022][875]Cmd: ACTOR DELETE
+[2017.12.26-12.09.45:025][875]LogEditorActor: Deleted Actor: CameraActor
+[2017.12.26-12.09.45:062][875]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2017.12.26-12.09.48:766][315]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-12.09.48:766][315]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-12.10.32:762][143]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.26-12.11.32:639][547]LogRenderer: Reallocating scene render targets to support 1208x924 Format 10 NumSamples 1 (Frame:33085).
+[2017.12.26-12.13.35:222][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RnDmap" FILE="../../../../../../Documents/GitHub/ResearchDisaster1/Saved/Autosaves/Game/RnDmap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.12.26-12.13.35:535][455]LogSavePackage: Save=285.19ms
+[2017.12.26-12.13.35:535][455]LogSavePackage: Moving '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/RnDmap_Auto1C67CA1864D7B0B17DB04368726B9B40A.tmp' to '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/Autosaves/Game/RnDmap_Auto1.umap'
+[2017.12.26-12.13.35:549][455]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/ResearchDisaster1/Saved/Autosaves/Game/RnDmap_Auto1.umap
+[2017.12.26-12.13.35:555][455]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RnDmap' took 0.383
+[2017.12.26-12.13.35:555][455]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.383
+[2017.12.26-12.13.35:558][455]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_Player] ([1] browsable assets)...
+[2017.12.26-12.13.35:558][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_Player]
+[2017.12.26-12.13.35:583][455]LogSavePackage: Save=24.07ms
+[2017.12.26-12.13.35:584][455]LogSavePackage: Moving '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/BP_Player_Auto1D5E8FE8C4B40D0263029C2A2A72C432E.tmp' to '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/Autosaves/Game/Blueprints/Player/BP_Player_Auto1.uasset'
+[2017.12.26-12.13.35:585][455]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/ResearchDisaster1/Saved/Autosaves/Game/Blueprints/Player/BP_Player_Auto1.uasset
+[2017.12.26-12.13.35:585][455]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_PlayerController] ([1] browsable assets)...
+[2017.12.26-12.13.35:585][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PlayerController]
+[2017.12.26-12.13.35:599][455]LogSavePackage: Save=12.19ms
+[2017.12.26-12.13.35:599][455]LogSavePackage: Moving '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/BP_PlayerController_Auto121CC83504FAA48ED087478B8DD36ED48.tmp' to '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/Autosaves/Game/Blueprints/Player/BP_PlayerController_Auto1.uasset'
+[2017.12.26-12.13.35:601][455]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/ResearchDisaster1/Saved/Autosaves/Game/Blueprints/Player/BP_PlayerController_Auto1.uasset
+[2017.12.26-12.13.35:601][455]LogFileHelpers: Auto-saving content packages took 0.044
+[2017.12.26-12.14.51:701][684]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-12.14.51:701][684]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-12.16.16:194][573]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-12.16.16:194][573]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-12.16.47:156][694]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.26-12.16.47:377][694]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2017.12.26-12.16.48:589][694]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2017.12.26-12.16.48:903][694]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2017.12.26-12.17.01:341][264]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.26-12.17.48:348][948]LogMetaData: Removing '/Game/Blueprints/Player/BP_PlayerCharacter.BP_PlayerCharacter:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Player/BP_Player.PackageMetaData'
+[2017.12.26-12.17.48:348][948]LogMetaData: Removing '/Game/Blueprints/Player/BP_PlayerCharacter.SKEL_BP_PlayerCharacter_C' ref from Metadata '/Game/Blueprints/Player/BP_Player.PackageMetaData'
+[2017.12.26-12.17.48:348][948]LogMetaData: Removing '/Game/Blueprints/Player/BP_PlayerCharacter.BP_PlayerCharacter_C' ref from Metadata '/Game/Blueprints/Player/BP_Player.PackageMetaData'
+[2017.12.26-12.17.48:348][948]LogMetaData: Removing '/Game/Blueprints/Player/BP_PlayerCharacter.BP_PlayerCharacter:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Player/BP_Player.PackageMetaData'
+[2017.12.26-12.17.48:348][948]LogMetaData: Removing '/Game/Blueprints/Player/BP_PlayerCharacter.BP_PlayerCharacter:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Player/BP_Player.PackageMetaData'
+[2017.12.26-12.17.48:348][948]LogMetaData: Removing '/Game/Blueprints/Player/BP_PlayerCharacter.BP_PlayerCharacter:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Player/BP_Player.PackageMetaData'
+[2017.12.26-12.17.48:403][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_PlayerCharacter" FILE="../../../../../../Documents/GitHub/ResearchDisaster1/Content/Blueprints/Player/BP_PlayerCharacter.uasset" SILENT=true
+[2017.12.26-12.17.48:424][948]LogSavePackage: Save=18.86ms
+[2017.12.26-12.17.48:425][948]LogSavePackage: Moving '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/BP_PlayerCharacter7FF557C641D22F7B1FDC0F8F6B3DC057.tmp' to '../../../../../../Documents/GitHub/ResearchDisaster1/Content/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2017.12.26-12.17.48:427][948]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/ResearchDisaster1/Content/Blueprints/Player/BP_PlayerCharacter.uasset
+[2017.12.26-12.18.29:007][314]Cmd: SELECT NONE
+[2017.12.26-12.18.37:017][177]Cmd: DELETE
+[2017.12.26-12.18.37:018][177]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.18.37:018][177]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.18.37:018][177]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.18.39:507][436]Cmd: DELETE
+[2017.12.26-12.18.39:510][436]Cmd: ACTOR DELETE
+[2017.12.26-12.18.39:512][436]LogEditorActor: Deleted Actor: Brush
+[2017.12.26-12.18.39:532][436]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2017.12.26-12.18.44:936][ 49]Cmd: TRANSACTION UNDO
+[2017.12.26-12.18.44:936][ 49]LogEditorTransaction: Undo Delete Actors
+[2017.12.26-12.18.47:208][276]Cmd: TRANSACTION UNDO
+[2017.12.26-12.18.47:208][276]LogEditorTransaction: Undo Modifier [Delete]
+[2017.12.26-12.18.47:644][320]Cmd: TRANSACTION UNDO
+[2017.12.26-12.18.47:644][320]LogEditorTransaction: Undo Select Brush Surface
+[2017.12.26-12.18.48:077][365]Cmd: TRANSACTION UNDO
+[2017.12.26-12.18.48:077][365]LogEditorTransaction: Undo Modifier [Delete]
+[2017.12.26-12.18.48:483][406]Cmd: TRANSACTION UNDO
+[2017.12.26-12.18.48:483][406]LogEditorTransaction: Undo Modifier [Extrude]
+[2017.12.26-12.18.51:686][732]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush)
+[2017.12.26-12.18.53:933][923]Cmd: DELETE
+[2017.12.26-12.18.53:934][923]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.18.53:934][923]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.18.53:934][923]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.18.54:713][ 14]Cmd: TRANSACTION UNDO
+[2017.12.26-12.18.54:713][ 14]LogEditorTransaction: Undo Modifier [Delete]
+[2017.12.26-12.18.59:554][553]LogGeometryMode: Warning: Unable to find BoxBrush2 Brush(s) in new BSP
+[2017.12.26-12.18.59:554][553]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.19.00:795][696]LogEditorActor: Deleted Actor: Brush
+[2017.12.26-12.19.00:814][696]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2017.12.26-12.19.31:989][202]Cmd: TRANSACTION UNDO
+[2017.12.26-12.19.31:989][202]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.19.31:993][202]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.19.31:993][202]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.19.31:993][202]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.19.32:352][216]Cmd: TRANSACTION UNDO
+[2017.12.26-12.19.32:352][216]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.19.32:355][216]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.19.32:355][216]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.19.32:355][216]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.19.40:285][ 13]Cmd: TRANSACTION UNDO
+[2017.12.26-12.19.40:285][ 13]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.19.40:288][ 13]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.19.40:288][ 13]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.19.40:288][ 13]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.19.45:470][595]Cmd: TRANSACTION UNDO
+[2017.12.26-12.19.45:470][595]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.19.45:473][595]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.19.45:473][595]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.19.45:473][595]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.19.58:100][821]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.26-12.20.01:210][169]Cmd: TRANSACTION UNDO
+[2017.12.26-12.20.01:210][169]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.20.03:718][438]Cmd: TRANSACTION UNDO
+[2017.12.26-12.20.03:718][438]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.20.04:106][478]Cmd: TRANSACTION UNDO
+[2017.12.26-12.20.04:106][478]LogEditorTransaction: Undo Modifier [Extrude]
+[2017.12.26-12.20.04:575][528]Cmd: TRANSACTION UNDO
+[2017.12.26-12.20.04:575][528]LogEditorTransaction: Undo Select Brush Surface
+[2017.12.26-12.20.05:245][601]Cmd: TRANSACTION UNDO
+[2017.12.26-12.20.05:245][601]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.26-12.20.05:655][644]Cmd: TRANSACTION UNDO
+[2017.12.26-12.20.05:655][644]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.20.16:837][934]Cmd: TRANSACTION UNDO
+[2017.12.26-12.20.16:837][934]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.20.21:788][370]Cmd: TRANSACTION UNDO
+[2017.12.26-12.20.21:789][370]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.20.21:791][370]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.20.21:791][370]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.20.21:791][370]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.20.21:985][387]Cmd: TRANSACTION UNDO
+[2017.12.26-12.20.21:985][387]LogEditorTransaction: Undo Edit Segments
+[2017.12.26-12.20.29:871][291]Cmd: TRANSACTION UNDO
+[2017.12.26-12.20.29:871][291]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.20.34:212][551]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush)
+[2017.12.26-12.20.35:039][648]Cmd: TRANSACTION UNDO
+[2017.12.26-12.20.35:039][648]LogEditorTransaction: Undo Clicking on Actors (double-click)
+[2017.12.26-12.20.51:960][607]Cmd: TRANSACTION UNDO
+[2017.12.26-12.20.51:960][607]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.20.58:169][328]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.20.58:169][328]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.20.58:169][328]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.20.58:979][422]Cmd: TRANSACTION UNDO
+[2017.12.26-12.20.58:979][422]LogEditorTransaction: Undo Edit X
+[2017.12.26-12.21.02:071][772]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.21.02:071][772]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.21.02:071][772]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.21.02:594][832]Cmd: TRANSACTION UNDO
+[2017.12.26-12.21.02:594][832]LogEditorTransaction: Undo Edit X
+[2017.12.26-12.21.07:388][350]Cmd: TRANSACTION UNDO
+[2017.12.26-12.21.07:388][350]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.21.07:391][350]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.21.07:391][350]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.21.07:391][350]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.21.24:452][154]Cmd: TRANSACTION UNDO
+[2017.12.26-12.21.24:452][154]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.21.24:455][154]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.21.24:455][154]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.21.24:455][154]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.21.24:924][191]Cmd: TRANSACTION UNDO
+[2017.12.26-12.21.24:924][191]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.21.24:927][191]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.21.24:927][191]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.21.24:927][191]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.21.25:637][271]Cmd: TRANSACTION UNDO
+[2017.12.26-12.21.25:637][271]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.21.25:640][271]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.21.25:640][271]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.21.25:640][271]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.21.26:371][354]Cmd: TRANSACTION UNDO
+[2017.12.26-12.21.26:371][354]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.21.26:889][413]Cmd: TRANSACTION UNDO
+[2017.12.26-12.21.26:889][413]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.21.59:383][794]Cmd: TRANSACTION UNDO
+[2017.12.26-12.21.59:383][794]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.21.59:387][794]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.21.59:387][794]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.21.59:387][794]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.22.08:686][809]Cmd: TRANSACTION UNDO
+[2017.12.26-12.22.08:686][809]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.22.08:690][809]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.22.08:690][809]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.22.08:690][809]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.22.08:989][834]Cmd: TRANSACTION UNDO
+[2017.12.26-12.22.08:989][834]LogEditorTransaction: Undo Rotate Actors
+[2017.12.26-12.22.09:300][859]Cmd: TRANSACTION UNDO
+[2017.12.26-12.22.09:300][859]LogEditorTransaction: Undo Modifier [Edit]
+[2017.12.26-12.22.09:483][876]Cmd: TRANSACTION UNDO
+[2017.12.26-12.22.09:484][876]LogEditorTransaction: Undo Modifier [Edit]
+[2017.12.26-12.22.09:680][895]Cmd: TRANSACTION UNDO
+[2017.12.26-12.22.09:680][895]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.22.09:684][895]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.22.09:684][895]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.22.09:684][895]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.22.09:940][921]Cmd: TRANSACTION UNDO
+[2017.12.26-12.22.09:940][921]LogEditorTransaction: Undo Modifier [Edit]
+[2017.12.26-12.22.10:456][978]Cmd: TRANSACTION UNDO
+[2017.12.26-12.22.10:456][978]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.22.10:918][ 28]Cmd: TRANSACTION UNDO
+[2017.12.26-12.22.10:918][ 28]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.22.10:922][ 28]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.22.10:922][ 28]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.22.10:922][ 28]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.22.11:694][116]Cmd: TRANSACTION UNDO
+[2017.12.26-12.22.11:694][116]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.22.12:148][167]Cmd: TRANSACTION UNDO
+[2017.12.26-12.22.12:148][167]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.22.15:293][532]Cmd: TRANSACTION UNDO
+[2017.12.26-12.22.15:293][532]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.22.15:578][543]Cmd: TRANSACTION UNDO
+[2017.12.26-12.22.15:578][543]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.22.15:581][543]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.22.15:581][543]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.22.15:581][543]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.22.15:913][560]Cmd: TRANSACTION UNDO
+[2017.12.26-12.22.15:913][560]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.22.15:917][560]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.22.15:918][560]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.22.15:918][560]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.22.16:286][598]Cmd: TRANSACTION UNDO
+[2017.12.26-12.22.16:286][598]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.22.16:622][633]Cmd: TRANSACTION UNDO
+[2017.12.26-12.22.16:622][633]LogEditorTransaction: Undo Modifier [Edit]
+[2017.12.26-12.22.17:088][684]Cmd: TRANSACTION UNDO
+[2017.12.26-12.22.17:089][684]LogEditorTransaction: Undo Modifier [Edit]
+[2017.12.26-12.22.17:471][727]Cmd: TRANSACTION UNDO
+[2017.12.26-12.22.17:471][727]LogEditorTransaction: Undo Modifier [Edit]
+[2017.12.26-12.22.17:879][773]Cmd: TRANSACTION UNDO
+[2017.12.26-12.22.17:879][773]LogEditorTransaction: Undo Modifier [Edit]
+[2017.12.26-12.22.18:261][816]Cmd: TRANSACTION UNDO
+[2017.12.26-12.22.18:261][816]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.22.18:265][816]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.22.18:265][816]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.22.18:265][816]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.22.35:290][542]Cmd: TRANSACTION UNDO
+[2017.12.26-12.22.35:291][542]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.22.35:293][542]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.22.35:293][542]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.22.35:293][542]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.22.49:638][131]Cmd: TRANSACTION UNDO
+[2017.12.26-12.22.49:638][131]LogEditorTransaction: Undo Modifier [Triangulate]
+[2017.12.26-12.23.02:942][474]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush)
+[2017.12.26-12.23.03:514][537]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush)
+[2017.12.26-12.23.07:562][  3]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.26-12.23.15:140][873]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.26-12.23.44:388][271]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.26-12.24.21:591][165]Cmd: TRANSACTION UNDO
+[2017.12.26-12.24.21:591][165]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.24.21:595][165]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.24.21:595][165]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.24.21:595][165]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.24.21:832][174]Cmd: TRANSACTION UNDO
+[2017.12.26-12.24.21:832][174]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.24.22:163][189]Cmd: TRANSACTION UNDO
+[2017.12.26-12.24.22:164][189]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.24.22:742][255]Cmd: TRANSACTION UNDO
+[2017.12.26-12.24.22:742][255]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.24.46:534][793]Cmd: TRANSACTION UNDO
+[2017.12.26-12.24.46:535][793]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.24.46:987][832]Cmd: TRANSACTION UNDO
+[2017.12.26-12.24.46:987][832]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.24.46:991][832]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.24.46:991][832]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.24.46:991][832]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.24.47:406][850]Cmd: TRANSACTION UNDO
+[2017.12.26-12.24.47:406][850]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.24.47:876][896]Cmd: TRANSACTION UNDO
+[2017.12.26-12.24.47:876][896]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.24.50:607][196]Cmd: MODE GRID=0
+[2017.12.26-12.24.51:784][327]Cmd: MODE GRID=1
+[2017.12.26-12.24.55:635][774]Cmd: TRANSACTION UNDO
+[2017.12.26-12.24.55:635][774]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.25.00:753][342]Cmd: TRANSACTION UNDO
+[2017.12.26-12.25.00:753][342]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.25.03:958][661]Cmd: MODE GRID=0
+[2017.12.26-12.25.05:609][849]Cmd: TRANSACTION UNDO
+[2017.12.26-12.25.05:609][849]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.25.07:723][ 74]Cmd: MODE GRID=1
+[2017.12.26-12.25.10:244][366]Cmd: TRANSACTION UNDO
+[2017.12.26-12.25.10:244][366]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.25.13:131][678]Cmd: TRANSACTION UNDO
+[2017.12.26-12.25.13:131][678]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.25.18:793][333]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.25.18:793][333]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.25.18:793][333]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.25.19:123][368]Cmd: TRANSACTION UNDO
+[2017.12.26-12.25.19:123][368]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.25.39:144][618]Cmd: TRANSACTION UNDO
+[2017.12.26-12.25.39:144][618]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.25.39:148][618]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.25.39:148][618]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.25.39:148][618]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.25.54:392][235]Cmd: TRANSACTION UNDO
+[2017.12.26-12.25.54:392][235]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.25.54:395][235]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.25.54:395][235]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.25.54:395][235]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.25.54:681][259]Cmd: TRANSACTION UNDO
+[2017.12.26-12.25.54:682][259]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.25.54:685][259]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.25.54:685][259]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.25.54:685][259]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.25.54:968][281]Cmd: TRANSACTION UNDO
+[2017.12.26-12.25.54:968][281]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.25.54:971][281]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.25.54:972][281]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.25.54:972][281]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.25.55:212][307]Cmd: TRANSACTION UNDO
+[2017.12.26-12.25.55:212][307]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.25.55:448][330]Cmd: TRANSACTION UNDO
+[2017.12.26-12.25.55:449][330]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.25.55:452][330]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.25.55:452][330]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.25.55:452][330]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.25.55:752][363]Cmd: TRANSACTION UNDO
+[2017.12.26-12.25.55:752][363]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.25.56:119][402]Cmd: TRANSACTION UNDO
+[2017.12.26-12.25.56:119][402]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.25.56:447][438]Cmd: TRANSACTION UNDO
+[2017.12.26-12.25.56:448][438]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.25.56:712][465]Cmd: TRANSACTION UNDO
+[2017.12.26-12.25.56:712][465]LogEditorTransaction: Undo Modifier [Edit]
+[2017.12.26-12.25.57:012][496]Cmd: TRANSACTION UNDO
+[2017.12.26-12.25.57:012][496]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.25.57:222][516]Cmd: TRANSACTION UNDO
+[2017.12.26-12.25.57:222][516]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.25.57:227][516]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.25.57:227][516]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.25.57:227][516]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.25.57:439][537]Cmd: TRANSACTION UNDO
+[2017.12.26-12.25.57:439][537]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.25.57:442][537]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.25.57:442][537]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.25.57:442][537]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.26.02:259][ 25]Cmd: TRANSACTION UNDO
+[2017.12.26-12.26.02:259][ 25]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.26.02:262][ 25]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.26.02:262][ 25]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.26.02:262][ 25]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.26.15:749][440]Cmd: TRANSACTION UNDO
+[2017.12.26-12.26.15:749][440]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.26.24:552][413]Cmd: TRANSACTION UNDO
+[2017.12.26-12.26.24:552][413]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.26.30:572][ 70]Cmd: TRANSACTION UNDO
+[2017.12.26-12.26.30:572][ 70]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.26.39:749][961]Cmd: TRANSACTION UNDO
+[2017.12.26-12.26.39:749][961]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.26.49:703][ 72]Cmd: TRANSACTION UNDO
+[2017.12.26-12.26.49:703][ 72]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.26.49:914][ 80]Cmd: TRANSACTION UNDO
+[2017.12.26-12.26.49:914][ 80]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.26.50:322][112]Cmd: TRANSACTION UNDO
+[2017.12.26-12.26.50:322][112]LogEditorTransaction: Undo Scale Actors
+[2017.12.26-12.27.20:585][269]Cmd: TRANSACTION UNDO
+[2017.12.26-12.27.20:586][269]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.27.20:589][269]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.27.20:589][269]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.27.20:589][269]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.27.21:162][317]Cmd: TRANSACTION UNDO
+[2017.12.26-12.27.21:162][317]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.27.31:911][530]Cmd: TRANSACTION UNDO
+[2017.12.26-12.27.31:911][530]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.27.31:915][530]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.27.31:915][530]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.27.31:915][530]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.27.36:879][100]Cmd: TRANSACTION UNDO
+[2017.12.26-12.27.36:879][100]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.27.36:883][100]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.27.36:883][100]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.27.36:883][100]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.27.48:657][213]Cmd: TRANSACTION UNDO
+[2017.12.26-12.27.48:657][213]LogEditorTransaction: Undo Move Actors
+[2017.12.26-12.27.48:661][213]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2017.12.26-12.27.48:661][213]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2017.12.26-12.27.48:661][213]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.12.26-12.28.00:823][535]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.26-12.28.29:806][507]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-12.28.29:807][507]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-12.28.44:877][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RnDmap" FILE="../../../../../../Documents/GitHub/ResearchDisaster1/Saved/Autosaves/Game/RnDmap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.12.26-12.28.45:083][143]LogSavePackage: Save=184.24ms
+[2017.12.26-12.28.45:083][143]LogSavePackage: Moving '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/RnDmap_Auto238B843324E314D3B4849D3A74FC9BA60.tmp' to '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/Autosaves/Game/RnDmap_Auto2.umap'
+[2017.12.26-12.28.45:089][143]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/ResearchDisaster1/Saved/Autosaves/Game/RnDmap_Auto2.umap
+[2017.12.26-12.28.45:091][143]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RnDmap' took 0.240
+[2017.12.26-12.28.45:091][143]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.240
+[2017.12.26-12.28.45:094][143]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_PlayerController] ([1] browsable assets)...
+[2017.12.26-12.28.45:094][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PlayerController]
+[2017.12.26-12.28.45:108][143]LogSavePackage: Save=12.68ms
+[2017.12.26-12.28.45:108][143]LogSavePackage: Moving '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/BP_PlayerController_Auto22A5988D841F85F3631C784BFBCB3AACD.tmp' to '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/Autosaves/Game/Blueprints/Player/BP_PlayerController_Auto2.uasset'
+[2017.12.26-12.28.45:111][143]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/ResearchDisaster1/Saved/Autosaves/Game/Blueprints/Player/BP_PlayerController_Auto2.uasset
+[2017.12.26-12.28.45:112][143]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Game/BP_BaseGameMode] ([1] browsable assets)...
+[2017.12.26-12.28.45:112][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Game/BP_BaseGameMode]
+[2017.12.26-12.28.45:125][143]LogSavePackage: Save=11.99ms
+[2017.12.26-12.28.45:125][143]LogSavePackage: Moving '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/BP_BaseGameMode_Auto25BAD6C834A30ACEE0F2124BFA0585AC9.tmp' to '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/Autosaves/Game/Blueprints/Game/BP_BaseGameMode_Auto2.uasset'
+[2017.12.26-12.28.45:127][143]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/ResearchDisaster1/Saved/Autosaves/Game/Blueprints/Game/BP_BaseGameMode_Auto2.uasset
+[2017.12.26-12.28.45:127][143]LogFileHelpers: Auto-saving content packages took 0.034
+[2017.12.26-12.28.47:153][330]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-12.28.47:153][330]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-12.29.38:693][568]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-12.29.38:693][568]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-12.29.45:473][276]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2017.12.26-12.29.57:342][851]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.26-12.30.22:476][893]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.26-12.30.24:647][893]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.30.24:647][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.26-12.30.24:694][893]PIE: New page: PIE session: RnDmap (Dec 26, 2017, 11:30:24 PM)
+[2017.12.26-12.30.24:695][893]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RnDmap
+[2017.12.26-12.30.24:725][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030554s)
+[2017.12.26-12.30.24:726][893]LogAIModule: Creating AISystem for world RnDmap
+[2017.12.26-12.30.24:726][893]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2017.12.26-12.30.24:736][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RnDmap.RnDmap to /Game/UEDPIE_0_RnDmap.RnDmap (0.041449s)
+[2017.12.26-12.30.24:811][893]LogInit: XAudio2 using 'Динамики (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.26-12.30.24:822][893]LogInit: FAudioDevice initialized.
+[2017.12.26-12.30.24:885][893]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.26-12.30.24:939][893]LogWorld: Bringing World /Game/UEDPIE_0_RnDmap.RnDmap up for play (max tick rate 0) at 2017.12.26-17.30.24
+[2017.12.26-12.30.25:063][893]LogWorld: Bringing up level for play took: 0.129511
+[2017.12.26-12.30.25:191][893]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2017.12.26-12.30.25:276][893]PIE: Play in editor start time for /Game/UEDPIE_0_RnDmap 1.029
+[2017.12.26-12.30.25:277][893]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.30.39:581][570]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.30.39:625][570]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.31.02:298][  4]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-12.31.02:298][  4]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-12.31.20:558][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_PlayerCharacter" FILE="../../../../../../Documents/GitHub/ResearchDisaster1/Content/Blueprints/Player/BP_PlayerCharacter.uasset" SILENT=true
+[2017.12.26-12.31.20:587][492]LogSavePackage: Save=18.74ms
+[2017.12.26-12.31.20:587][492]LogSavePackage: Moving '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/BP_PlayerCharacter84A134EB4E9245859D174A80662070A0.tmp' to '../../../../../../Documents/GitHub/ResearchDisaster1/Content/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2017.12.26-12.31.20:590][492]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/ResearchDisaster1/Content/Blueprints/Player/BP_PlayerCharacter.uasset
+[2017.12.26-12.31.20:858][513]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2017.12.26-12.31.22:975][649]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.26-12.31.22:993][649]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.31.22:993][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.26-12.31.22:993][649]PIE: New page: PIE session: RnDmap (Dec 26, 2017, 11:31:22 PM)
+[2017.12.26-12.31.22:994][649]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RnDmap
+[2017.12.26-12.31.22:997][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003634s)
+[2017.12.26-12.31.22:998][649]LogAIModule: Creating AISystem for world RnDmap
+[2017.12.26-12.31.22:998][649]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2017.12.26-12.31.22:998][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RnDmap.RnDmap to /Game/UEDPIE_0_RnDmap.RnDmap (0.004650s)
+[2017.12.26-12.31.23:017][649]LogInit: XAudio2 using 'Динамики (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.26-12.31.23:027][649]LogInit: FAudioDevice initialized.
+[2017.12.26-12.31.23:058][649]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.26-12.31.23:059][649]LogWorld: Bringing World /Game/UEDPIE_0_RnDmap.RnDmap up for play (max tick rate 0) at 2017.12.26-17.31.23
+[2017.12.26-12.31.23:060][649]LogWorld: Bringing up level for play took: 0.001339
+[2017.12.26-12.31.23:062][649]PIE: Play in editor start time for /Game/UEDPIE_0_RnDmap 0.815
+[2017.12.26-12.31.23:062][649]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.31.24:883][863]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.31.24:916][863]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.31.29:113][294]LogSlate: Took 0.019313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.26-12.31.32:811][618]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2017.12.26-12.31.37:824][159]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.26-12.32.04:707][ 83]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.26-12.32.04:730][ 83]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.32.04:731][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.26-12.32.04:731][ 83]PIE: New page: PIE session: RnDmap (Dec 26, 2017, 11:32:04 PM)
+[2017.12.26-12.32.04:731][ 83]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RnDmap
+[2017.12.26-12.32.04:734][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003595s)
+[2017.12.26-12.32.04:735][ 83]LogAIModule: Creating AISystem for world RnDmap
+[2017.12.26-12.32.04:735][ 83]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2017.12.26-12.32.04:735][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RnDmap.RnDmap to /Game/UEDPIE_0_RnDmap.RnDmap (0.004499s)
+[2017.12.26-12.32.04:758][ 83]LogInit: XAudio2 using 'Динамики (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.26-12.32.04:767][ 83]LogInit: FAudioDevice initialized.
+[2017.12.26-12.32.04:801][ 83]LogLoad: Game class is 'BP_BaseGameMode_C'
+[2017.12.26-12.32.04:803][ 83]LogWorld: Bringing World /Game/UEDPIE_0_RnDmap.RnDmap up for play (max tick rate 0) at 2017.12.26-17.32.04
+[2017.12.26-12.32.04:803][ 83]LogWorld: Bringing up level for play took: 0.001280
+[2017.12.26-12.32.04:805][ 83]PIE: Play in editor start time for /Game/UEDPIE_0_RnDmap 0.557
+[2017.12.26-12.32.04:805][ 83]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.32.07:056][349]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.32.07:094][349]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.32.34:745][312]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-12.32.34:745][312]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-12.33.21:856][426]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-12.33.21:856][426]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-12.34.37:996][529]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2017.12.26-12.34.38:778][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_PlayerCharacter" FILE="../../../../../../Documents/GitHub/ResearchDisaster1/Content/Blueprints/Player/BP_PlayerCharacter.uasset" SILENT=true
+[2017.12.26-12.34.38:812][562]LogSavePackage: Save=24.45ms
+[2017.12.26-12.34.38:812][562]LogSavePackage: Moving '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/BP_PlayerCharacter161E2F3E4FB9CA4C884C0895C3CCCC67.tmp' to '../../../../../../Documents/GitHub/ResearchDisaster1/Content/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2017.12.26-12.34.38:817][562]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/ResearchDisaster1/Content/Blueprints/Player/BP_PlayerCharacter.uasset
+[2017.12.26-12.35.06:539][569]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2017.12.26-12.35.07:286][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_PlayerCharacter" FILE="../../../../../../Documents/GitHub/ResearchDisaster1/Content/Blueprints/Player/BP_PlayerCharacter.uasset" SILENT=true
+[2017.12.26-12.35.07:315][605]LogSavePackage: Save=25.71ms
+[2017.12.26-12.35.07:315][605]LogSavePackage: Moving '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/BP_PlayerCharacter53FC50344904DF6E8A6FD8BED2A52B79.tmp' to '../../../../../../Documents/GitHub/ResearchDisaster1/Content/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2017.12.26-12.35.07:318][605]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/ResearchDisaster1/Content/Blueprints/Player/BP_PlayerCharacter.uasset
+[2017.12.26-12.35.08:942][765]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.26-12.35.08:959][765]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.35.08:959][765]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.26-12.35.08:959][765]PIE: New page: PIE session: RnDmap (Dec 26, 2017, 11:35:08 PM)
+[2017.12.26-12.35.08:959][765]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RnDmap
+[2017.12.26-12.35.08:963][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003606s)
+[2017.12.26-12.35.08:963][765]LogAIModule: Creating AISystem for world RnDmap
+[2017.12.26-12.35.08:964][765]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2017.12.26-12.35.08:964][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RnDmap.RnDmap to /Game/UEDPIE_0_RnDmap.RnDmap (0.004635s)
+[2017.12.26-12.35.08:982][765]LogInit: XAudio2 using 'Динамики (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.26-12.35.08:992][765]LogInit: FAudioDevice initialized.
+[2017.12.26-12.35.09:029][765]LogLoad: Game class is 'BP_BaseGameMode_C'
+[2017.12.26-12.35.09:030][765]LogWorld: Bringing World /Game/UEDPIE_0_RnDmap.RnDmap up for play (max tick rate 0) at 2017.12.26-17.35.09
+[2017.12.26-12.35.09:031][765]LogWorld: Bringing up level for play took: 0.001297
+[2017.12.26-12.35.09:032][765]PIE: Play in editor start time for /Game/UEDPIE_0_RnDmap 0.785
+[2017.12.26-12.35.09:033][765]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.35.11:754][ 86]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.35.11:790][ 86]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.35.53:800][782]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.26-12.35.53:817][782]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.35.53:818][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.26-12.35.53:818][782]PIE: New page: PIE session: RnDmap (Dec 26, 2017, 11:35:53 PM)
+[2017.12.26-12.35.53:818][782]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RnDmap
+[2017.12.26-12.35.53:822][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004091s)
+[2017.12.26-12.35.53:823][782]LogAIModule: Creating AISystem for world RnDmap
+[2017.12.26-12.35.53:823][782]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2017.12.26-12.35.53:823][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RnDmap.RnDmap to /Game/UEDPIE_0_RnDmap.RnDmap (0.005305s)
+[2017.12.26-12.35.53:843][782]LogInit: XAudio2 using 'Динамики (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.26-12.35.53:853][782]LogInit: FAudioDevice initialized.
+[2017.12.26-12.35.53:890][782]LogLoad: Game class is 'BP_BaseGameMode_C'
+[2017.12.26-12.35.53:891][782]LogWorld: Bringing World /Game/UEDPIE_0_RnDmap.RnDmap up for play (max tick rate 0) at 2017.12.26-17.35.53
+[2017.12.26-12.35.53:892][782]LogWorld: Bringing up level for play took: 0.001281
+[2017.12.26-12.35.53:893][782]PIE: Play in editor start time for /Game/UEDPIE_0_RnDmap -0.355
+[2017.12.26-12.35.53:893][782]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.35.56:002][ 31]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.35.56:036][ 31]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.36.00:059][460]LogEditorViewport: Clicking on Actor (LMB): BP_PlayerCharacter_C (BP_PlayerCharacter)
+[2017.12.26-12.36.15:806][143]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.12.26-12.36.16:083][149]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.RNDYOUFUCK
+[2017.12.26-12.36.16:083][149]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.26-12.36.16:083][149]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2017.12.26-12.36.16:083][149]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.26-12.36.16:094][150]LogTemp: BranchPath = ASUS/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = ASUS/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2017.12.26-12.36.16:278][163]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\?????\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.12.26-12.37.07:255][148]LogEditorTransaction: Undo Comment Bubble Visibility
+[2017.12.26-12.37.34:189][ 46]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2017.12.26-12.37.35:212][ 99]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.26-12.37.35:237][ 99]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.37.35:237][ 99]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.26-12.37.35:237][ 99]PIE: New page: PIE session: RnDmap (Dec 26, 2017, 11:37:35 PM)
+[2017.12.26-12.37.35:237][ 99]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RnDmap
+[2017.12.26-12.37.35:241][ 99]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003653s)
+[2017.12.26-12.37.35:242][ 99]LogAIModule: Creating AISystem for world RnDmap
+[2017.12.26-12.37.35:242][ 99]LogPlayLevel: PIE: World Init took: (0.000695s)
+[2017.12.26-12.37.35:242][ 99]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RnDmap.RnDmap to /Game/UEDPIE_0_RnDmap.RnDmap (0.004623s)
+[2017.12.26-12.37.35:263][ 99]LogInit: XAudio2 using 'Динамики (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.26-12.37.35:271][ 99]LogInit: FAudioDevice initialized.
+[2017.12.26-12.37.35:311][ 99]LogLoad: Game class is 'BP_BaseGameMode_C'
+[2017.12.26-12.37.35:313][ 99]LogWorld: Bringing World /Game/UEDPIE_0_RnDmap.RnDmap up for play (max tick rate 0) at 2017.12.26-17.37.35
+[2017.12.26-12.37.35:313][ 99]LogWorld: Bringing up level for play took: 0.001442
+[2017.12.26-12.37.35:315][ 99]PIE: Play in editor start time for /Game/UEDPIE_0_RnDmap 1.067
+[2017.12.26-12.37.35:315][ 99]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.37.37:690][326]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.37.37:726][326]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.38.18:535][956]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2017.12.26-12.38.19:431][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_PlayerCharacter" FILE="../../../../../../Documents/GitHub/ResearchDisaster1/Content/Blueprints/Player/BP_PlayerCharacter.uasset" SILENT=true
+[2017.12.26-12.38.19:469][991]LogSavePackage: Save=26.97ms
+[2017.12.26-12.38.19:469][991]LogSavePackage: Moving '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/BP_PlayerCharacterECBF56054330CC8FECA05B96F9ECD00C.tmp' to '../../../../../../Documents/GitHub/ResearchDisaster1/Content/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2017.12.26-12.38.19:474][991]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/ResearchDisaster1/Content/Blueprints/Player/BP_PlayerCharacter.uasset
+[2017.12.26-12.38.21:527][195]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.26-12.38.21:546][195]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.38.21:546][195]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.26-12.38.21:546][195]PIE: New page: PIE session: RnDmap (Dec 26, 2017, 11:38:21 PM)
+[2017.12.26-12.38.21:546][195]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RnDmap
+[2017.12.26-12.38.21:550][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003759s)
+[2017.12.26-12.38.21:551][195]LogAIModule: Creating AISystem for world RnDmap
+[2017.12.26-12.38.21:551][195]LogPlayLevel: PIE: World Init took: (0.000697s)
+[2017.12.26-12.38.21:551][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RnDmap.RnDmap to /Game/UEDPIE_0_RnDmap.RnDmap (0.004781s)
+[2017.12.26-12.38.21:570][195]LogInit: XAudio2 using 'Динамики (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.26-12.38.21:580][195]LogInit: FAudioDevice initialized.
+[2017.12.26-12.38.21:612][195]LogLoad: Game class is 'BP_BaseGameMode_C'
+[2017.12.26-12.38.21:614][195]LogWorld: Bringing World /Game/UEDPIE_0_RnDmap.RnDmap up for play (max tick rate 0) at 2017.12.26-17.38.21
+[2017.12.26-12.38.21:614][195]LogWorld: Bringing up level for play took: 0.001348
+[2017.12.26-12.38.21:616][195]PIE: Play in editor start time for /Game/UEDPIE_0_RnDmap -0.632
+[2017.12.26-12.38.21:616][195]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.38.22:865][341]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.38.22:900][341]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.38.25:535][623]LogEditorViewport: Clicking on Actor (LMB): BP_PlayerCharacter_C (BP_PlayerCharacter)
+[2017.12.26-12.38.26:071][661]LogEditorViewport: Clicking on Actor (LMB): BP_PlayerCharacter_C (BP_PlayerCharacter)
+[2017.12.26-12.38.26:144][664]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2017.12.26-12.38.27:144][752]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2017.12.26-12.38.54:591][509]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.26-12.38.54:615][509]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.38.54:615][509]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.26-12.38.54:618][509]LogPlayLevel: [PlayLevel] Compiling BP_PlayerCharacter before play...
+[2017.12.26-12.38.54:990][509]LogPlayLevel: PlayLevel: Blueprint regeneration took 375 ms (1 blueprints)
+[2017.12.26-12.38.54:990][509]PIE: New page: PIE session: RnDmap (Dec 26, 2017, 11:38:54 PM)
+[2017.12.26-12.38.54:990][509]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RnDmap
+[2017.12.26-12.38.54:994][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003672s)
+[2017.12.26-12.38.54:994][509]LogAIModule: Creating AISystem for world RnDmap
+[2017.12.26-12.38.54:995][509]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2017.12.26-12.38.54:995][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RnDmap.RnDmap to /Game/UEDPIE_0_RnDmap.RnDmap (0.004600s)
+[2017.12.26-12.38.55:043][509]LogInit: XAudio2 using 'Динамики (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.26-12.38.55:053][509]LogInit: FAudioDevice initialized.
+[2017.12.26-12.38.55:090][509]LogLoad: Game class is 'BP_BaseGameMode_C'
+[2017.12.26-12.38.55:092][509]LogWorld: Bringing World /Game/UEDPIE_0_RnDmap.RnDmap up for play (max tick rate 0) at 2017.12.26-17.38.55
+[2017.12.26-12.38.55:092][509]LogWorld: Bringing up level for play took: 0.001305
+[2017.12.26-12.38.55:094][509]PIE: Play in editor start time for /Game/UEDPIE_0_RnDmap 0.846
+[2017.12.26-12.38.55:094][509]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.38.59:375][997]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.38.59:411][997]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.39.24:662][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RnDmap" FILE="../../../../../../Documents/GitHub/ResearchDisaster1/Saved/Autosaves/Game/RnDmap_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.12.26-12.39.24:868][129]LogSavePackage: Save=197.53ms
+[2017.12.26-12.39.24:868][129]LogSavePackage: Moving '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/RnDmap_Auto31E6C7ED74D9B3F05BDD39797196DF8AA.tmp' to '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/Autosaves/Game/RnDmap_Auto3.umap'
+[2017.12.26-12.39.24:870][129]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/ResearchDisaster1/Saved/Autosaves/Game/RnDmap_Auto3.umap
+[2017.12.26-12.39.24:872][129]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RnDmap' took 0.231
+[2017.12.26-12.39.24:872][129]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.231
+[2017.12.26-12.39.24:874][129]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Game/BP_BaseGameMode] ([1] browsable assets)...
+[2017.12.26-12.39.24:874][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Game/BP_BaseGameMode]
+[2017.12.26-12.39.24:888][129]LogSavePackage: Save=12.34ms
+[2017.12.26-12.39.24:888][129]LogSavePackage: Moving '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/BP_BaseGameMode_Auto3354566744747BE36463A75B6A3FA699A.tmp' to '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/Autosaves/Game/Blueprints/Game/BP_BaseGameMode_Auto3.uasset'
+[2017.12.26-12.39.24:889][129]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/ResearchDisaster1/Saved/Autosaves/Game/Blueprints/Game/BP_BaseGameMode_Auto3.uasset
+[2017.12.26-12.39.24:890][129]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_PlayerCharacter] ([1] browsable assets)...
+[2017.12.26-12.39.24:890][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PlayerCharacter]
+[2017.12.26-12.39.24:920][129]LogSavePackage: Save=27.45ms
+[2017.12.26-12.39.24:920][129]LogSavePackage: Moving '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/BP_PlayerCharacter_Auto324AA81C44C90E60BE03031A52E43B409.tmp' to '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/Autosaves/Game/Blueprints/Player/BP_PlayerCharacter_Auto3.uasset'
+[2017.12.26-12.39.24:922][129]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/ResearchDisaster1/Saved/Autosaves/Game/Blueprints/Player/BP_PlayerCharacter_Auto3.uasset
+[2017.12.26-12.39.24:922][129]LogFileHelpers: Auto-saving content packages took 0.049
+[2017.12.26-12.39.25:994][133]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-12.39.25:994][133]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-12.40.03:555][605]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-12.40.03:555][605]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-12.40.08:618][ 25]LogEditorTransaction: Undo Move Node
+[2017.12.26-12.40.09:264][ 73]LogEditorTransaction: Undo Add Node
+[2017.12.26-12.41.20:252][813]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2017.12.26-12.41.21:137][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_PlayerCharacter" FILE="../../../../../../Documents/GitHub/ResearchDisaster1/Content/Blueprints/Player/BP_PlayerCharacter.uasset" SILENT=true
+[2017.12.26-12.41.21:178][857]LogSavePackage: Save=37.28ms
+[2017.12.26-12.41.21:178][857]LogSavePackage: Moving '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/BP_PlayerCharacter0370899A4F4AFD28281165BD90D47A0D.tmp' to '../../../../../../Documents/GitHub/ResearchDisaster1/Content/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2017.12.26-12.41.21:187][857]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/ResearchDisaster1/Content/Blueprints/Player/BP_PlayerCharacter.uasset
+[2017.12.26-12.41.22:904][ 13]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.26-12.41.22:927][ 13]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.41.22:928][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.26-12.41.22:928][ 13]PIE: New page: PIE session: RnDmap (Dec 26, 2017, 11:41:22 PM)
+[2017.12.26-12.41.22:928][ 13]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RnDmap
+[2017.12.26-12.41.22:932][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003701s)
+[2017.12.26-12.41.22:932][ 13]LogAIModule: Creating AISystem for world RnDmap
+[2017.12.26-12.41.22:932][ 13]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2017.12.26-12.41.22:933][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RnDmap.RnDmap to /Game/UEDPIE_0_RnDmap.RnDmap (0.004718s)
+[2017.12.26-12.41.22:951][ 13]LogInit: XAudio2 using 'Динамики (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.26-12.41.22:961][ 13]LogInit: FAudioDevice initialized.
+[2017.12.26-12.41.22:994][ 13]LogLoad: Game class is 'BP_BaseGameMode_C'
+[2017.12.26-12.41.22:995][ 13]LogWorld: Bringing World /Game/UEDPIE_0_RnDmap.RnDmap up for play (max tick rate 0) at 2017.12.26-17.41.22
+[2017.12.26-12.41.22:996][ 13]LogWorld: Bringing up level for play took: 0.001380
+[2017.12.26-12.41.22:997][ 13]PIE: Play in editor start time for /Game/UEDPIE_0_RnDmap 0.75
+[2017.12.26-12.41.22:998][ 13]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.41.24:674][210]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.41.24:709][210]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.42.05:743][710]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2017.12.26-12.42.06:529][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_PlayerCharacter" FILE="../../../../../../Documents/GitHub/ResearchDisaster1/Content/Blueprints/Player/BP_PlayerCharacter.uasset" SILENT=true
+[2017.12.26-12.42.06:567][727]LogSavePackage: Save=34.89ms
+[2017.12.26-12.42.06:567][727]LogSavePackage: Moving '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/BP_PlayerCharacter1CB4A4394E39B6314D316585E446AEED.tmp' to '../../../../../../Documents/GitHub/ResearchDisaster1/Content/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2017.12.26-12.42.06:570][727]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/ResearchDisaster1/Content/Blueprints/Player/BP_PlayerCharacter.uasset
+[2017.12.26-12.42.08:220][872]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.26-12.42.08:239][872]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.42.08:239][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.26-12.42.08:240][872]PIE: New page: PIE session: RnDmap (Dec 26, 2017, 11:42:08 PM)
+[2017.12.26-12.42.08:240][872]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RnDmap
+[2017.12.26-12.42.08:244][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003891s)
+[2017.12.26-12.42.08:244][872]LogAIModule: Creating AISystem for world RnDmap
+[2017.12.26-12.42.08:245][872]LogPlayLevel: PIE: World Init took: (0.000886s)
+[2017.12.26-12.42.08:245][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RnDmap.RnDmap to /Game/UEDPIE_0_RnDmap.RnDmap (0.005112s)
+[2017.12.26-12.42.08:265][872]LogInit: XAudio2 using 'Динамики (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.26-12.42.08:274][872]LogInit: FAudioDevice initialized.
+[2017.12.26-12.42.08:305][872]LogLoad: Game class is 'BP_BaseGameMode_C'
+[2017.12.26-12.42.08:307][872]LogWorld: Bringing World /Game/UEDPIE_0_RnDmap.RnDmap up for play (max tick rate 0) at 2017.12.26-17.42.08
+[2017.12.26-12.42.08:307][872]LogWorld: Bringing up level for play took: 0.001323
+[2017.12.26-12.42.08:309][872]PIE: Play in editor start time for /Game/UEDPIE_0_RnDmap 0.061
+[2017.12.26-12.42.08:309][872]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.42.26:004][233]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.42.26:036][233]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.43.12:281][206]LogEditorViewport: Clicking on Actor (LMB): BP_PlayerCharacter_C (BP_PlayerCharacter)
+[2017.12.26-12.43.14:038][358]Cmd: DELETE
+[2017.12.26-12.43.14:039][358]Cmd: ACTOR DELETE
+[2017.12.26-12.43.14:043][358]LogEditorActor: Deleted Actor: BP_PlayerCharacter_C
+[2017.12.26-12.43.14:091][358]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2017.12.26-12.43.16:598][656]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.26-12.43.16:617][656]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.43.16:617][656]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.26-12.43.16:622][656]LogPlayLevel: [PlayLevel] Compiling BP_PlayerCharacter before play...
+[2017.12.26-12.43.16:647][656]LogPlayLevel: PlayLevel: Blueprint regeneration took 29 ms (1 blueprints)
+[2017.12.26-12.43.16:647][656]PIE: New page: PIE session: RnDmap (Dec 26, 2017, 11:43:16 PM)
+[2017.12.26-12.43.16:647][656]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RnDmap
+[2017.12.26-12.43.16:651][656]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003412s)
+[2017.12.26-12.43.16:651][656]LogAIModule: Creating AISystem for world RnDmap
+[2017.12.26-12.43.16:651][656]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2017.12.26-12.43.16:652][656]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RnDmap.RnDmap to /Game/UEDPIE_0_RnDmap.RnDmap (0.004433s)
+[2017.12.26-12.43.16:673][656]LogInit: XAudio2 using 'Динамики (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.26-12.43.16:683][656]LogInit: FAudioDevice initialized.
+[2017.12.26-12.43.16:717][656]LogLoad: Game class is 'BP_BaseGameMode_C'
+[2017.12.26-12.43.16:719][656]LogWorld: Bringing World /Game/UEDPIE_0_RnDmap.RnDmap up for play (max tick rate 0) at 2017.12.26-17.43.16
+[2017.12.26-12.43.16:719][656]LogWorld: Bringing up level for play took: 0.001205
+[2017.12.26-12.43.16:721][656]PIE: Play in editor start time for /Game/UEDPIE_0_RnDmap 0.474
+[2017.12.26-12.43.16:722][656]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.43.18:470][861]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.43.18:502][861]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RnDmap.RnDmap:PersistentLevel' has LevelScriptBlueprint '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap' with GeneratedClass '/Game/RnDmap.RnDmap_C' with ClassGeneratedBy '/Game/RnDmap.RnDmap:PersistentLevel.RnDmap'
+[2017.12.26-12.43.44:482][ 75]LogEditorTransaction: Undo Modify Component(s)
+[2017.12.26-12.44.22:755][550]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.26-12.45.04:912][423]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-12.45.04:912][423]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.26-12.46.09:668][231]LogEditorTransaction: Undo Set Scale
+[2017.12.26-12.46.10:848][231]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.162 s
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: === Handled ensure: ===
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: 
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: 
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: Stack: 
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000E8112786 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000E7EB123A UE4Editor-Core.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000E7ECB906 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000CAA10B7C UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000CA9BDD9F UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000C71DC07B UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000C71DCE85 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000C717FB10 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000C7184747 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000EB521290 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000EB515FD1 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000EB4E4A47 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000EB4E6C17 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000EB583675 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000EB398CAA UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000EB338824 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000E5719844 UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000E54B1859 UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000E544092C UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000E544562C UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000E580AC89 UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000E57B0AAB UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000E57B4A4A UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000E57B2DD7 UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000E58112CC UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000E53ED7B0 UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000E546DA3D UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000E54BE0CD UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000CA9BEA46 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000CA9E6112 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000CA9CDCE9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000CA9CE61B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000CAA328FB UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000CAA75A0E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000E5440FC1 UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.26-12.46.10:859][231]LogOutputDevice: Error: [Callstack] 0x00000000E5445D26 UE4Editor-Kismet.dll!UnknownFunction []
+[2017.12.26-12.46.10:860][231]LogOutputDevice: Error: [Callstack] 0x00000000EB339636 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.26-12.46.10:860][231]LogOutputDevice: Error: [Callstack] 0x00000000EB3783A0 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.26-12.46.10:860][231]LogOutputDevice: Error: [Callstack] 0x00000000CB22BE9E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.26-12.46.10:860][231]LogOutputDevice: Error: [Callstack] 0x00000000CB217803 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.26-12.46.10:860][231]LogOutputDevice: Error: [Callstack] 0x00000000EB3263A1 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.26-12.46.10:860][231]LogOutputDevice: Error: [Callstack] 0x00000000EB2F700E UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.26-12.46.10:860][231]LogOutputDevice: Error: [Callstack] 0x00000000EB2F8C16 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.26-12.46.10:860][231]LogOutputDevice: Error: [Callstack] 0x00000000EB37988C UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.26-12.46.10:860][231]LogOutputDevice: Error: [Callstack] 0x00000000EB36BEE8 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.26-12.46.10:860][231]LogOutputDevice: Error: [Callstack] 0x00000000FC57E28A UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.26-12.46.10:860][231]LogOutputDevice: Error: [Callstack] 0x00000000FC571A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.26-12.46.10:860][231]LogOutputDevice: Error: [Callstack] 0x00000000FC5803EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.26-12.46.10:860][231]LogOutputDevice: Error: [Callstack] 0x00000000FC56D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.26-12.46.10:860][231]LogOutputDevice: Error: [Callstack] 0x000000001D26BC50 USER32.dll!UnknownFunction []
+[2017.12.26-12.46.10:860][231]LogOutputDevice: Error: [Callstack] 0x000000001D26B5CF USER32.dll!UnknownFunction []
+[2017.12.26-12.46.10:860][231]LogOutputDevice: Error: [Callstack] 0x00000000FC581516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.26-12.46.10:860][231]LogOutputDevice: Error: [Callstack] 0x000000003F5C50C8 UE4Editor.exe!UnknownFunction []
+[2017.12.26-12.46.10:860][231]LogOutputDevice: Error: [Callstack] 0x000000003F5D5430 UE4Editor.exe!UnknownFunction []
+[2017.12.26-12.46.10:860][231]LogOutputDevice: Error: [Callstack] 0x000000003F5D54AA UE4Editor.exe!UnknownFunction []
+[2017.12.26-12.46.10:860][231]LogOutputDevice: Error: [Callstack] 0x000000003F5E2379 UE4Editor.exe!UnknownFunction []
+[2017.12.26-12.46.10:860][231]LogOutputDevice: Error: [Callstack] 0x000000003F5E3D57 UE4Editor.exe!UnknownFunction []
+[2017.12.26-12.46.10:860][231]LogOutputDevice: Error: [Callstack] 0x000000001DE12774 KERNEL32.DLL!UnknownFunction []
+[2017.12.26-12.46.10:860][231]LogOutputDevice: Error: [Callstack] 0x000000001FCB0D51 ntdll.dll!UnknownFunction []
+[2017.12.26-12.46.10:860][231]LogOutputDevice: Error: 
+[2017.12.26-12.46.10:862][231]LogStats:                SubmitErrorReport -  0.000 s
