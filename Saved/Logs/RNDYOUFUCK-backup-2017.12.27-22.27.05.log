@@ -1,0 +1,796 @@
+﻿Log file open, 12/27/17 20:14:16
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: RNDYOUFUCK
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1425873611) SRandInit(1425873611).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.098080
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.27-15.14.19:836][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.27-15.14.19:837][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.27-15.14.19:939][  0]LogInit: Computer: ASUS
+[2017.12.27-15.14.19:939][  0]LogInit: User: Pavel
+[2017.12.27-15.14.19:939][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.27-15.14.19:939][  0]LogInit: High frequency timer resolution =3.125026 MHz
+[2017.12.27-15.14.19:939][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2017.12.27-15.14.19:939][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.27-15.14.19:939][  0]LogMemory: Process Physical Memory: 274.36 MB used, 274.36 MB peak
+[2017.12.27-15.14.19:939][  0]LogMemory: Process Virtual Memory: 273.46 MB used, 273.46 MB peak
+[2017.12.27-15.14.19:939][  0]LogMemory: Physical Memory: 6712.93 MB used,  5508.54 MB free, 12221.47 MB total
+[2017.12.27-15.14.19:939][  0]LogMemory: Virtual Memory: 647.93 MB used,  5508.54 MB free, 134217728.00 MB total
+[2017.12.27-15.14.20:728][  0]LogInit: Using OS detected language (en-US).
+[2017.12.27-15.14.20:728][  0]LogInit: Using OS detected locale (ru-RU).
+[2017.12.27-15.14.20:910][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.27-15.14.20:910][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en-US' will be used for the locale.
+[2017.12.27-15.14.21:648][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.27-15.14.28:186][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.27-15.14.28:243][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2017.12.27-15.14.28:243][  0]LogD3D11RHI:       2017/0/6110 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.27-15.14.28:245][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.27-15.14.28:245][  0]LogD3D11RHI:       0/0/6110 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.27-15.14.28:245][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.27-15.14.28:264][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.27-15.14.28:268][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.27-15.14.28:268][  0]LogWindows: EnumDisplayDevices:
+[2017.12.27-15.14.28:268][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2017.12.27-15.14.28:268][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.12.27-15.14.28:268][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.12.27-15.14.28:268][  0]LogWindows:    3. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2017.12.27-15.14.28:268][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.12.27-15.14.28:268][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2017.12.27-15.14.28:268][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2017.12.27-15.14.28:268][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2017.12.27-15.14.28:268][  0]LogRHI: Texture pool is 1412 MB (70% of 2017 MB)
+[2017.12.27-15.14.28:314][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.27-15.14.28:396][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.27-15.14.28:451][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../../../Documents/GitHub/ResearchDisaster1/Intermediate/Shaders/WorkingDirectory/3800/).
+[2017.12.27-15.14.28:451][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Павел/AppData/Local/Temp/UnrealShaderWorkingDir/4DC2DA434511E60B25F00F8B47119F2D/'.
+[2017.12.27-15.14.28:455][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.27-15.14.32:483][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.27-15.14.32:568][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.27-15.14.32:639][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.27-15.14.32:710][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.27-15.14.32:792][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.27-15.14.32:864][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.27-15.14.32:935][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.27-15.14.33:007][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.27-15.14.33:094][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.27-15.14.33:161][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.27-15.14.33:233][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.27-15.14.33:301][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.27-15.14.33:370][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.27-15.14.33:438][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.27-15.14.33:577][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.27-15.14.33:577][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.27-15.14.33:661][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.27-15.14.33:716][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.27-15.14.33:870][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.27-15.14.33:909][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.27-15.14.33:980][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.27-15.14.34:055][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.27-15.14.34:131][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.27-15.14.34:225][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.27-15.14.34:225][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.27-15.14.35:164][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.27-15.14.35:956][  0]LogDerivedDataCache: Loaded boot cache 0.79s 78MB C:/Users/Павел/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.27-15.14.35:956][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Павел/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.27-15.14.35:956][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Documents/GitHub/ResearchDisaster1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.27-15.14.35:956][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.27-15.14.35:956][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Documents/GitHub/ResearchDisaster1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.27-15.14.35:956][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.27-15.14.36:042][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.27-15.14.36:054][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Павел/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.27-15.14.36:099][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.27-15.14.36:124][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.27-15.14.36:166][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.27-15.14.36:166][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.27-15.14.41:118][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.27-15.14.42:462][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.27-15.14.42:532][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.27-15.14.42:540][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.27-15.14.42:548][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.27-15.14.42:548][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.27-15.14.42:548][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.27-15.14.42:819][  0]LogNetVersion: RNDYOUFUCK , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 762423528)
+[2017.12.27-15.14.43:991][  0]LogAssetRegistry: FAssetRegistry took 0.0280 seconds to start up
+[2017.12.27-15.14.47:981][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.091697 seconds
+[2017.12.27-15.14.47:987][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.27-15.14.47:987][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.12.27-15.14.47:987][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.27-15.14.48:072][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.27-15.15.10:350][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.27-15.15.10:409][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.27-15.15.12:135][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.27-15.15.13:347][  0]SourceControl: Source control is disabled
+[2017.12.27-15.15.13:347][  0]SourceControl: Source control is disabled
+[2017.12.27-15.15.13:468][  0]SourceControl: Source control is disabled
+[2017.12.27-15.15.13:558][  0]SourceControl: Source control is disabled
+[2017.12.27-15.15.15:169][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.27-15.15.15:565][  0]LogOcInput: OculusInput pre-init called
+[2017.12.27-15.15.16:305][  0]LogEngine: Initializing Engine...
+[2017.12.27-15.15.16:335][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2017.12.27-15.15.17:247][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.27-15.15.17:248][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.27-15.15.17:446][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.27-15.15.17:467][  0]LogInit: XAudio2 using 'Динамики (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.27-15.15.17:483][  0]LogInit: FAudioDevice initialized.
+[2017.12.27-15.15.17:636][  0]LogDerivedDataCache: Saved boot cache 0.15s 78MB C:/Users/Павел/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.27-15.15.17:653][  0]LogInit: Texture streaming: Enabled
+[2017.12.27-15.15.17:911][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.27-15.15.18:131][  0]LogInit: Transaction tracking system initialized
+[2017.12.27-15.15.18:819][  0]BlueprintLog: New page: Editor Load
+[2017.12.27-15.15.20:453][  0]LocalizationService: Localization service is disabled
+[2017.12.27-15.15.21:871][  0]LogConsoleResponse: Display: 
+[2017.12.27-15.15.24:679][  0]LogFileCache: Scanning file cache for directory 'C:/Documents/GitHub/ResearchDisaster1/Content/' took 0.02s
+[2017.12.27-15.15.24:679][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.27-15.15.24:696][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.27-15.15.24:713][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.27-15.15.27:729][  0]SourceControl: Source control is disabled
+[2017.12.27-15.15.27:737][  0]Cmd: MAP LOAD FILE="../../../../../../Documents/GitHub/ResearchDisaster1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.27-15.15.27:747][  0]LogEditorServer: Warning: Can't find file '../../../../../../Documents/GitHub/ResearchDisaster1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.12.27-15.15.27:763][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.27-15.15.27:843][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 79.132ms to complete.
+[2017.12.27-15.15.27:843][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.106
+[2017.12.27-15.15.28:254][  0]LogCollectionManager: Loaded 0 collections in 0.002770 seconds
+[2017.12.27-15.15.28:382][  0]LogFileCache: Scanning file cache for directory 'C:/Documents/GitHub/ResearchDisaster1/Saved/Collections/' took 0.01s
+[2017.12.27-15.15.28:382][  0]LogFileCache: Scanning file cache for directory 'C:/Documents/GitHub/ResearchDisaster1/Content/Developers/Pavel/Collections/' took 0.01s
+[2017.12.27-15.15.28:382][  0]LogFileCache: Scanning file cache for directory 'C:/Documents/GitHub/ResearchDisaster1/Content/Collections/' took 0.01s
+[2017.12.27-15.15.28:382][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.12.27-15.15.28:402][  0]LogContentBrowser: Native class hierarchy populated in 0.0189 seconds. Added 2363 classes and 519 folders.
+[2017.12.27-15.15.28:516][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.12.27-15.15.30:329][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.12.27-15.15.30:701][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.27-15.15.30:773][  0]LogSlate: Took 0.024040 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.27-15.15.30:788][  0]LogSlate: Took 0.013035 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.27-15.15.30:810][  0]LogSlate: Took 0.016240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.27-15.15.31:156][  0]LogRenderer: Reallocating scene render targets to support 1208x724 Format 10 NumSamples 1 (Frame:1).
+[2017.12.27-15.15.31:465][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.27-15.15.31:465][  0]LogLoad: (Engine Initialization) Total time: 89.73 seconds
+[2017.12.27-15.15.31:465][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.27-15.15.31:465][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.27-15.15.31:465][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.27-15.15.31:825][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.27-15.15.32:809][  3]LogAssetRegistry: Asset discovery search completed in 48.8404 seconds
+[2017.12.27-15.15.32:831][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.12.27-15.15.32:831][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000076 seconds (updated 0 objects)
+[2017.12.27-15.16.30:602][488]LogSlate: Took 0.029684 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.27-15.16.31:523][488]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.27-15.16.32:987][488]LogAIModule: Creating AISystem for world RnDmap
+[2017.12.27-15.16.33:093][488]Cmd: MAP LOAD FILE="../../../../../../Documents/GitHub/ResearchDisaster1/Content/RnDmap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.27-15.16.33:093][488]LightingResults: New page: Lighting Build
+[2017.12.27-15.16.33:163][488]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2017.12.27-15.16.33:165][488]LoadErrors: New page: Loading map: RnDmap.umap
+[2017.12.27-15.16.33:173][488]MapCheck: New page: Map Check
+[2017.12.27-15.16.33:173][488]LightingResults: New page: Lighting Build
+[2017.12.27-15.16.33:316][488]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.27-15.16.33:396][488]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.27-15.16.33:466][488]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.171ms to complete.
+[2017.12.27-15.16.33:466][488]LogFileHelpers: Loading map 'RnDmap' took 0.375
+[2017.12.27-15.17.29:360][541]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2017.12.27-15.17.30:686][541]LogSlate: Took 0.018418 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.27-15.17.30:964][542]LogSlate: Took 0.011609 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.27-15.17.43:218][ 43]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.27-15.17.43:218][ 43]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.27-15.20.42:081][596]Cmd: MAP LOAD FILE="../../../../../../Documents/GitHub/ResearchDisaster1/Content/B1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.27-15.20.42:083][596]LightingResults: New page: Lighting Build
+[2017.12.27-15.20.42:084][596]LoadErrors: New page: Loading map: B1.umap
+[2017.12.27-15.20.42:085][596]MapCheck: New page: Map Check
+[2017.12.27-15.20.42:085][596]LightingResults: New page: Lighting Build
+[2017.12.27-15.20.42:230][596]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.27-15.20.42:231][596]LogAIModule: Creating AISystem for world B1
+[2017.12.27-15.20.42:299][596]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.27-15.20.42:373][596]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 73.531ms to complete.
+[2017.12.27-15.20.42:375][596]LogFileHelpers: Loading map 'B1' took 0.295
+[2017.12.27-15.20.56:715][241]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.27-15.21.07:567][420]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.21.11:238][827]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2017.12.27-15.21.17:680][526]Cmd: TRANSACTION UNDO
+[2017.12.27-15.21.17:680][526]LogEditorTransaction: Undo Scale Actors
+[2017.12.27-15.21.17:778][526]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.27-15.21.20:041][778]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2017.12.27-15.21.34:015][421]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.21.36:201][664]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.21.53:882][733]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2017.12.27-15.30.27:243][234]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.27-15.30.29:680][508]Cmd: TRANSACTION UNDO
+[2017.12.27-15.30.29:680][508]LogEditorTransaction: Undo Brush Add
+[2017.12.27-15.30.31:349][648]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.27-15.30.35:816][139]Cmd: TRANSACTION UNDO
+[2017.12.27-15.30.35:816][139]LogEditorTransaction: Undo Move Actors
+[2017.12.27-15.31.50:904][544]Cmd: TRANSACTION UNDO
+[2017.12.27-15.31.50:904][544]LogEditorTransaction: Undo Move Actors
+[2017.12.27-15.32.29:316][670]Cmd: EDCALLBACK SURFPROPS
+[2017.12.27-15.32.30:251][760]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.33.03:182][388]Cmd: TRANSACTION UNDO
+[2017.12.27-15.33.03:182][388]LogEditorTransaction: Undo Scale Actors
+[2017.12.27-15.33.03:185][388]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2017.12.27-15.33.03:541][411]Cmd: TRANSACTION UNDO
+[2017.12.27-15.33.03:541][411]LogEditorTransaction: Undo Select Brush Surface
+[2017.12.27-15.33.04:498][511]Cmd: DELETE
+[2017.12.27-15.33.04:498][511]Cmd: ACTOR DELETE
+[2017.12.27-15.33.04:540][511]LogEditorActor: Deleted Actor: Brush
+[2017.12.27-15.33.04:621][511]LogEditorActor: Deleted 1 Actors (0.115 secs)
+[2017.12.27-15.33.04:919][545]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.33.05:500][601]Cmd: DELETE
+[2017.12.27-15.33.05:500][601]Cmd: ACTOR DELETE
+[2017.12.27-15.33.05:504][601]LogEditorActor: Deleted Actor: Brush
+[2017.12.27-15.33.05:575][601]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2017.12.27-15.33.22:882][488]Cmd: TRANSACTION UNDO
+[2017.12.27-15.33.22:882][488]LogEditorTransaction: Undo Set Location
+[2017.12.27-15.33.22:885][488]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2017.12.27-15.34.04:941][164]Cmd: TRANSACTION UNDO
+[2017.12.27-15.34.04:941][164]LogEditorTransaction: Undo Set Location
+[2017.12.27-15.34.04:945][164]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2017.12.27-15.35.17:057][403]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.35.18:497][561]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.36.18:704][488]Cmd: TRANSACTION UNDO
+[2017.12.27-15.36.18:704][488]LogEditorTransaction: Undo Set Location
+[2017.12.27-15.37.01:444][826]Cmd: TRANSACTION UNDO
+[2017.12.27-15.37.01:444][826]LogEditorTransaction: Undo Select Brush Surface
+[2017.12.27-15.37.06:130][345]Cmd: TRANSACTION UNDO
+[2017.12.27-15.37.06:130][345]LogEditorTransaction: Undo Reset Location
+[2017.12.27-15.37.07:641][488]Cmd: TRANSACTION UNDO
+[2017.12.27-15.37.07:641][488]LogEditorTransaction: Undo Select Brush Surface
+[2017.12.27-15.37.07:887][497]Cmd: TRANSACTION UNDO
+[2017.12.27-15.37.07:888][497]LogEditorTransaction: Undo Select Brush Surface
+[2017.12.27-15.37.08:723][588]Cmd: TRANSACTION UNDO
+[2017.12.27-15.37.08:723][588]LogEditorTransaction: Undo Set Location
+[2017.12.27-15.37.09:527][673]Cmd: TRANSACTION UNDO
+[2017.12.27-15.37.09:528][673]LogEditorTransaction: Undo Select Brush Surface
+[2017.12.27-15.37.10:565][787]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush4)
+[2017.12.27-15.37.17:816][605]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.37.23:525][236]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.37.24:339][326]Cmd: TRANSACTION UNDO
+[2017.12.27-15.37.24:339][326]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.27-15.37.26:138][514]Cmd: TRANSACTION UNDO
+[2017.12.27-15.37.26:138][514]LogEditorTransaction: Undo Set Location
+[2017.12.27-15.37.47:515][904]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.37.55:737][821]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.38.15:333][680]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.38.17:242][896]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.38.21:428][360]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.38.22:081][432]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.38.22:444][470]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2017.12.27-15.38.23:779][600]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.38.24:373][660]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.38.25:430][772]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.38.34:732][870]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.38.36:025][ 12]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.38.37:979][226]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush4)
+[2017.12.27-15.38.45:950][123]Cmd: TRANSACTION UNDO
+[2017.12.27-15.38.45:950][123]LogEditorTransaction: Undo Edit Z
+[2017.12.27-15.38.51:939][775]Cmd: TRANSACTION UNDO
+[2017.12.27-15.38.51:939][775]LogEditorTransaction: Undo Edit Z
+[2017.12.27-15.39.01:634][749]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush4)
+[2017.12.27-15.39.33:161][852]Cmd: EDCALLBACK SURFPROPS
+[2017.12.27-15.39.35:476][110]Cmd: EDCALLBACK SURFPROPS
+[2017.12.27-15.39.36:532][227]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush3)
+[2017.12.27-15.39.36:745][246]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush3)
+[2017.12.27-15.39.45:210][164]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2017.12.27-15.39.45:905][232]Cmd: EDCALLBACK SURFPROPS
+[2017.12.27-15.39.52:423][919]Cmd: EDCALLBACK SURFPROPS
+[2017.12.27-15.39.54:883][188]Cmd: EDCALLBACK SURFPROPS
+[2017.12.27-15.40.01:641][947]Cmd: EDCALLBACK SURFPROPS
+[2017.12.27-15.40.03:646][176]Cmd: EDCALLBACK SURFPROPS
+[2017.12.27-15.40.04:765][301]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.40.12:600][150]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2017.12.27-15.40.19:750][935]Cmd: EDCALLBACK SURFPROPS
+[2017.12.27-15.40.22:801][285]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush5)
+[2017.12.27-15.40.30:357][126]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush6)
+[2017.12.27-15.40.48:915][226]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.40.49:619][295]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush4)
+[2017.12.27-15.40.50:750][424]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush4)
+[2017.12.27-15.40.53:109][683]Cmd: TRANSACTION UNDO
+[2017.12.27-15.40.53:109][683]LogEditorTransaction: Undo Edit Z
+[2017.12.27-15.40.54:764][834]Cmd: TRANSACTION UNDO
+[2017.12.27-15.40.54:764][834]LogEditorTransaction: Undo Edit Z
+[2017.12.27-15.41.04:521][935]Cmd: TRANSACTION UNDO
+[2017.12.27-15.41.04:521][935]LogEditorTransaction: Undo Edit Z
+[2017.12.27-15.41.21:285][751]Cmd: TRANSACTION UNDO
+[2017.12.27-15.41.21:285][751]LogEditorTransaction: Undo Move Actors
+[2017.12.27-15.41.35:188][303]Cmd: TRANSACTION UNDO
+[2017.12.27-15.41.35:188][303]LogEditorTransaction: Undo Set Location
+[2017.12.27-15.41.40:461][868]Cmd: TRANSACTION UNDO
+[2017.12.27-15.41.40:461][868]LogEditorTransaction: Undo Edit Z
+[2017.12.27-15.42.07:941][995]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush3)
+[2017.12.27-15.42.28:664][316]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.42.29:861][444]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2017.12.27-15.42.59:902][304]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush5)
+[2017.12.27-15.43.08:246][244]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.43.10:959][551]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.43.12:728][747]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush6)
+[2017.12.27-15.43.43:102][985]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.27-15.44.03:629][231]Cmd: EDCALLBACK SURFPROPS
+[2017.12.27-15.44.11:812][145]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.44.14:766][477]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.44.29:166][ 81]Cmd: TRANSACTION UNDO
+[2017.12.27-15.44.29:166][ 81]LogEditorTransaction: Undo Move Actors
+[2017.12.27-15.44.29:171][ 81]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2017.12.27-15.44.29:443][ 90]Cmd: TRANSACTION UNDO
+[2017.12.27-15.44.29:443][ 90]LogEditorTransaction: Undo Select Brush Surface
+[2017.12.27-15.44.29:731][103]Cmd: TRANSACTION UNDO
+[2017.12.27-15.44.29:731][103]LogEditorTransaction: Undo Select Brush Surface
+[2017.12.27-15.44.30:212][150]Cmd: TRANSACTION UNDO
+[2017.12.27-15.44.30:212][150]LogEditorTransaction: Undo Select Brush Surface
+[2017.12.27-15.44.30:561][185]Cmd: TRANSACTION UNDO
+[2017.12.27-15.44.30:561][185]LogEditorTransaction: Undo Select Brush Surface
+[2017.12.27-15.44.30:842][212]Cmd: TRANSACTION UNDO
+[2017.12.27-15.44.30:842][212]LogEditorTransaction: Undo Select Brush Surface
+[2017.12.27-15.44.31:161][243]Cmd: TRANSACTION UNDO
+[2017.12.27-15.44.31:161][243]LogEditorTransaction: Undo Select Brush Surface
+[2017.12.27-15.44.31:471][270]Cmd: TRANSACTION UNDO
+[2017.12.27-15.44.31:471][270]LogEditorTransaction: Undo Select Brush Surface
+[2017.12.27-15.44.31:831][305]Cmd: TRANSACTION UNDO
+[2017.12.27-15.44.31:831][305]LogEditorTransaction: Undo Select Brush Surface
+[2017.12.27-15.44.34:012][535]Cmd: EDCALLBACK SURFPROPS
+[2017.12.27-15.44.38:506][ 62]Cmd: EDCALLBACK SURFPROPS
+[2017.12.27-15.44.39:477][167]Cmd: EDCALLBACK SURFPROPS
+[2017.12.27-15.44.52:991][143]Cmd: EDCALLBACK SURFPROPS
+[2017.12.27-15.44.57:015][586]Cmd: EDCALLBACK SURFPROPS
+[2017.12.27-15.45.36:360][521]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush3)
+[2017.12.27-15.45.38:982][821]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush7)
+[2017.12.27-15.46.55:063][436]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush7)
+[2017.12.27-15.47.39:841][314]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.27-15.47.39:841][314]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.27-15.47.57:730][823]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.27-15.48.44:752][172]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.51.25:265][742]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush8)
+[2017.12.27-15.51.30:888][395]Cmd: TRANSACTION UNDO
+[2017.12.27-15.51.30:889][395]LogEditorTransaction: Undo Edit Z
+[2017.12.27-15.51.49:976][539]Cmd: TRANSACTION UNDO
+[2017.12.27-15.51.49:976][539]LogEditorTransaction: Undo Edit Z
+[2017.12.27-15.52.48:260][778]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.52.48:619][815]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.52.58:571][873]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.53.26:188][491]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.27-15.53.43:030][ 71]Cmd: TRANSACTION UNDO
+[2017.12.27-15.53.43:030][ 71]LogEditorTransaction: Undo Scale Actors
+[2017.12.27-15.53.43:036][ 71]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2017.12.27-15.53.43:040][ 71]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush5.BrushComponent0) Component already registered.
+[2017.12.27-15.54.04:406][ 78]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush10)
+[2017.12.27-15.54.20:332][813]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.55.11:063][271]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.27-15.55.12:466][409]Cmd: TRANSACTION UNDO
+[2017.12.27-15.55.12:466][409]LogEditorTransaction: Undo Brush Add
+[2017.12.27-15.55.13:383][486]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.27-15.55.25:085][773]Cmd: TRANSACTION UNDO
+[2017.12.27-15.55.25:085][773]LogEditorTransaction: Undo Edit Step Length
+[2017.12.27-15.55.25:095][773]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush9.BrushComponent0) Component already registered.
+[2017.12.27-15.55.56:435][252]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush8)
+[2017.12.27-15.56.25:778][368]LogEditorViewport: Clicking on Actor (LMB): Brush (Linear Stair Brush)
+[2017.12.27-15.56.26:010][388]Cmd: EDCALLBACK SURFPROPS
+[2017.12.27-15.56.27:980][615]LogEditorViewport: Clicking on Actor (LMB): Brush (Linear Stair Brush)
+[2017.12.27-15.56.40:687][ 48]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.56.48:912][953]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.27-15.58.09:872][272]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush10)
+[2017.12.27-15.58.21:332][598]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-15.58.44:979][216]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush9)
+[2017.12.27-15.58.57:532][626]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush8)
+[2017.12.27-15.59.12:152][223]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush9)
+[2017.12.27-15.59.17:910][883]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush8)
+[2017.12.27-16.00.25:471][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B1" FILE="../../../../../../Documents/GitHub/ResearchDisaster1/Saved/Autosaves/Game/B1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.12.27-16.00.26:450][480]LogSavePackage: Save=973.47ms
+[2017.12.27-16.00.26:450][480]LogSavePackage: Moving '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/B1_Auto158BC9898413064800A2250BCDE676768.tmp' to '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/Autosaves/Game/B1_Auto1.umap'
+[2017.12.27-16.00.26:451][480]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/ResearchDisaster1/Saved/Autosaves/Game/B1_Auto1.umap
+[2017.12.27-16.00.26:457][480]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/B1' took 1.022
+[2017.12.27-16.00.26:457][480]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.022
+[2017.12.27-16.00.26:459][480]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Player/BP_PlayerCharacter] ([1] browsable assets)...
+[2017.12.27-16.00.26:479][480]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player/BP_PlayerCharacter.BP_PlayerCharacter]
+[2017.12.27-16.00.26:479][480]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PlayerCharacter]
+[2017.12.27-16.00.26:588][480]LogSavePackage: Save=76.96ms
+[2017.12.27-16.00.26:588][480]LogSavePackage: Moving '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/BP_PlayerCharacter_Auto1195BDCC14341FEE4B29900B5B6063743.tmp' to '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/Autosaves/Game/Blueprints/Player/BP_PlayerCharacter_Auto1.uasset'
+[2017.12.27-16.00.26:591][480]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/ResearchDisaster1/Saved/Autosaves/Game/Blueprints/Player/BP_PlayerCharacter_Auto1.uasset
+[2017.12.27-16.00.26:591][480]LogFileHelpers: Auto-saving content packages took 0.133
+[2017.12.27-16.00.28:071][655]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush10)
+[2017.12.27-16.00.30:830][970]Cmd: TRANSACTION UNDO
+[2017.12.27-16.00.30:830][970]LogEditorTransaction: Undo Edit X
+[2017.12.27-16.01.03:432][200]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.27-16.01.38:589][ 29]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.27-16.02.42:885][231]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-16.02.52:014][197]Cmd: TRANSACTION UNDO
+[2017.12.27-16.02.52:014][197]LogEditorTransaction: Undo Move Actors
+[2017.12.27-16.02.52:026][197]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2017.12.27-16.02.52:435][228]Cmd: TRANSACTION UNDO
+[2017.12.27-16.02.52:435][228]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.27-16.03.09:233][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B1" FILE="../../../../../../Documents/GitHub/ResearchDisaster1/Content/B1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.27-16.03.10:413][894]LogSavePackage: Save=1153.28ms
+[2017.12.27-16.03.10:413][894]LogSavePackage: Moving '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/B1FD65A2F249BE6987532C0999A59943A5.tmp' to '../../../../../../Documents/GitHub/ResearchDisaster1/Content/B1.umap'
+[2017.12.27-16.03.10:418][894]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/ResearchDisaster1/Content/B1.umap
+[2017.12.27-16.03.15:762][510]Cmd: TRANSACTION UNDO
+[2017.12.27-16.03.15:762][510]LogEditorTransaction: Undo Move Actors
+[2017.12.27-16.03.15:767][510]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush11.BrushComponent0) Component already registered.
+[2017.12.27-16.04.18:220][598]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush18)
+[2017.12.27-16.04.21:483][890]Cmd: EDIT COPY
+[2017.12.27-16.04.26:290][439]Cmd: TRANSACTION UNDO
+[2017.12.27-16.04.26:290][439]LogEditorTransaction: Undo Move Actors
+[2017.12.27-16.04.26:298][439]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush5.BrushComponent0) Component already registered.
+[2017.12.27-16.04.45:184][546]Cmd: TRANSACTION UNDO
+[2017.12.27-16.04.45:184][546]LogEditorTransaction: Undo Move Actors
+[2017.12.27-16.04.45:194][546]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2017.12.27-16.04.45:198][546]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush19.BrushComponent0) Component already registered.
+[2017.12.27-16.04.47:520][782]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-16.05.51:844][601]Cmd: TRANSACTION UNDO
+[2017.12.27-16.05.51:844][601]LogEditorTransaction: Undo Move Actors
+[2017.12.27-16.05.51:856][601]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.LinearStairBrush2.BrushComponent0) Component already registered.
+[2017.12.27-16.05.51:856][601]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush11.BrushComponent0) Component already registered.
+[2017.12.27-16.05.51:857][601]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush8.BrushComponent0) Component already registered.
+[2017.12.27-16.05.51:858][601]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush24.BrushComponent0) Component already registered.
+[2017.12.27-16.05.51:858][601]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2017.12.27-16.05.51:862][601]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush25.BrushComponent0) Component already registered.
+[2017.12.27-16.05.51:863][601]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2017.12.27-16.05.51:863][601]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2017.12.27-16.05.51:865][601]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush45.BrushComponent0) Component already registered.
+[2017.12.27-16.05.51:865][601]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush38.BrushComponent0) Component already registered.
+[2017.12.27-16.05.51:865][601]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush39.BrushComponent0) Component already registered.
+[2017.12.27-16.06.50:425][495]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush66)
+[2017.12.27-16.06.51:324][594]Cmd: DELETE
+[2017.12.27-16.06.51:324][594]Cmd: ACTOR DELETE
+[2017.12.27-16.06.51:395][594]LogEditorActor: Deleted Actor: Brush
+[2017.12.27-16.06.51:508][594]LogEditorActor: Deleted 1 Actors (0.184 secs)
+[2017.12.27-16.07.10:435][556]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush70)
+[2017.12.27-16.07.38:393][498]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-16.08.08:758][676]Cmd: DELETE
+[2017.12.27-16.08.08:758][676]Cmd: ACTOR DELETE
+[2017.12.27-16.08.08:791][676]LogEditorActor: Deleted Actor: Brush
+[2017.12.27-16.08.08:868][676]LogEditorActor: Deleted 1 Actors (0.110 secs)
+[2017.12.27-16.09.06:348][298]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.27-16.09.23:962][849]Cmd: DELETE
+[2017.12.27-16.09.23:962][849]Cmd: ACTOR DELETE
+[2017.12.27-16.09.23:989][849]LogEditorActor: Deleted Actor: Brush
+[2017.12.27-16.09.24:054][849]LogEditorActor: Deleted 1 Actors (0.092 secs)
+[2017.12.27-16.09.25:467][  2]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.27-16.09.28:062][266]Cmd: TRANSACTION UNDO
+[2017.12.27-16.09.28:062][266]LogEditorTransaction: Undo Move Actors
+[2017.12.27-16.09.28:078][266]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush33.BrushComponent0) Component already registered.
+[2017.12.27-16.09.28:080][266]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush49.BrushComponent0) Component already registered.
+[2017.12.27-16.09.28:089][266]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush64.BrushComponent0) Component already registered.
+[2017.12.27-16.10.00:833][663]Cmd: TRANSACTION UNDO
+[2017.12.27-16.10.00:833][663]LogEditorTransaction: Undo Scale Actors
+[2017.12.27-16.10.00:847][663]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush25.BrushComponent0) Component already registered.
+[2017.12.27-16.10.00:848][663]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2017.12.27-16.10.00:848][663]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush36.BrushComponent0) Component already registered.
+[2017.12.27-16.10.00:849][663]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush5.BrushComponent0) Component already registered.
+[2017.12.27-16.10.00:855][663]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush6.BrushComponent0) Component already registered.
+[2017.12.27-16.10.00:856][663]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2017.12.27-16.10.00:856][663]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush37.BrushComponent0) Component already registered.
+[2017.12.27-16.10.00:857][663]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush71.BrushComponent0) Component already registered.
+[2017.12.27-16.10.00:857][663]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush72.BrushComponent0) Component already registered.
+[2017.12.27-16.10.00:859][663]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush48.BrushComponent0) Component already registered.
+[2017.12.27-16.10.00:859][663]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush49.BrushComponent0) Component already registered.
+[2017.12.27-16.10.00:860][663]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush59.BrushComponent0) Component already registered.
+[2017.12.27-16.10.02:826][859]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2017.12.27-16.10.03:022][875]LogEditorViewport: Clicking on Actor (double click): Brush (Cylinder Brush)
+[2017.12.27-16.10.05:681][170]Cmd: TRANSACTION UNDO
+[2017.12.27-16.10.05:681][170]LogEditorTransaction: Undo Edit Outer Radius
+[2017.12.27-16.10.05:696][170]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush22.BrushComponent0) Component already registered.
+[2017.12.27-16.10.05:696][170]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush23.BrushComponent0) Component already registered.
+[2017.12.27-16.10.05:697][170]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush33.BrushComponent0) Component already registered.
+[2017.12.27-16.10.05:697][170]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush34.BrushComponent0) Component already registered.
+[2017.12.27-16.10.05:698][170]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush29.BrushComponent0) Component already registered.
+[2017.12.27-16.10.05:698][170]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2017.12.27-16.10.05:698][170]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush3_7.BrushComponent0) Component already registered.
+[2017.12.27-16.10.05:704][170]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush11.BrushComponent0) Component already registered.
+[2017.12.27-16.10.05:704][170]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush12.BrushComponent0) Component already registered.
+[2017.12.27-16.10.05:705][170]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush9.BrushComponent0) Component already registered.
+[2017.12.27-16.10.05:706][170]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush71.BrushComponent0) Component already registered.
+[2017.12.27-16.10.05:706][170]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush72.BrushComponent0) Component already registered.
+[2017.12.27-16.10.05:707][170]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush44.BrushComponent0) Component already registered.
+[2017.12.27-16.10.05:707][170]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush45.BrushComponent0) Component already registered.
+[2017.12.27-16.10.05:709][170]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush56.BrushComponent0) Component already registered.
+[2017.12.27-16.10.05:709][170]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush57.BrushComponent0) Component already registered.
+[2017.12.27-16.10.05:709][170]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush52.BrushComponent0) Component already registered.
+[2017.12.27-16.10.48:222][118]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.27-16.11.57:490][110]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush47)
+[2017.12.27-16.12.01:512][557]Cmd: TRANSACTION UNDO
+[2017.12.27-16.12.01:512][557]LogEditorTransaction: Undo Edit X
+[2017.12.27-16.12.01:528][557]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush35.BrushComponent0) Component already registered.
+[2017.12.27-16.12.01:528][557]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush28.BrushComponent0) Component already registered.
+[2017.12.27-16.12.01:529][557]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush29.BrushComponent0) Component already registered.
+[2017.12.27-16.12.01:529][557]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2017.12.27-16.12.01:529][557]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush3_7.BrushComponent0) Component already registered.
+[2017.12.27-16.12.01:536][557]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2017.12.27-16.12.01:537][557]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush9.BrushComponent0) Component already registered.
+[2017.12.27-16.12.01:537][557]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush69.BrushComponent0) Component already registered.
+[2017.12.27-16.12.01:537][557]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush70.BrushComponent0) Component already registered.
+[2017.12.27-16.12.01:538][557]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush64.BrushComponent0) Component already registered.
+[2017.12.27-16.12.01:538][557]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.CylinderBrush2.BrushComponent0) Component already registered.
+[2017.12.27-16.12.01:539][557]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush76.BrushComponent0) Component already registered.
+[2017.12.27-16.12.01:540][557]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush42.BrushComponent0) Component already registered.
+[2017.12.27-16.12.59:143][  3]Cmd: TRANSACTION UNDO
+[2017.12.27-16.12.59:143][  3]LogEditorTransaction: Undo Edit Z
+[2017.12.27-16.12.59:158][  3]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2017.12.27-16.12.59:158][  3]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush27.BrushComponent0) Component already registered.
+[2017.12.27-16.12.59:168][  3]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush8.BrushComponent0) Component already registered.
+[2017.12.27-16.12.59:168][  3]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush9.BrushComponent0) Component already registered.
+[2017.12.27-16.12.59:169][  3]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush68.BrushComponent0) Component already registered.
+[2017.12.27-16.12.59:170][  3]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.CylinderBrush3.BrushComponent0) Component already registered.
+[2017.12.27-16.12.59:170][  3]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush78.BrushComponent0) Component already registered.
+[2017.12.27-16.12.59:171][  3]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush43.BrushComponent0) Component already registered.
+[2017.12.27-16.13.33:604][612]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush5)
+[2017.12.27-16.13.34:102][663]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush5)
+[2017.12.27-16.13.43:016][630]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush66)
+[2017.12.27-16.15.17:090][565]Cmd: TRANSACTION UNDO
+[2017.12.27-16.15.17:090][565]LogEditorTransaction: Undo Edit Y
+[2017.12.27-16.15.17:106][565]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2017.12.27-16.15.17:107][565]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush20.BrushComponent0) Component already registered.
+[2017.12.27-16.15.17:117][565]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2017.12.27-16.15.17:119][565]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.CylinderBrush4.BrushComponent0) Component already registered.
+[2017.12.27-16.15.17:119][565]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.CylinderBrush5.BrushComponent0) Component already registered.
+[2017.12.27-16.15.17:119][565]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.CylinderBrush6.BrushComponent0) Component already registered.
+[2017.12.27-16.15.17:119][565]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush80.BrushComponent0) Component already registered.
+[2017.12.27-16.15.17:119][565]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush81.BrushComponent0) Component already registered.
+[2017.12.27-16.15.17:120][565]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.CylinderBrush2.BrushComponent0) Component already registered.
+[2017.12.27-16.15.37:214][819]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-16.15.40:726][186]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-16.15.41:503][271]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-16.15.45:660][702]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-16.15.46:151][751]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-16.16.13:524][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B1" FILE="../../../../../../Documents/GitHub/ResearchDisaster1/Saved/Autosaves/Game/B1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.12.27-16.16.14:277][126]LogSavePackage: Save=742.33ms
+[2017.12.27-16.16.14:277][126]LogSavePackage: Moving '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/B1_Auto27BC38F5B424D2F6E6465B58E54150E1E.tmp' to '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/Autosaves/Game/B1_Auto2.umap'
+[2017.12.27-16.16.14:280][126]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/ResearchDisaster1/Saved/Autosaves/Game/B1_Auto2.umap
+[2017.12.27-16.16.14:284][126]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/B1' took 0.852
+[2017.12.27-16.16.14:284][126]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.852
+[2017.12.27-16.16.25:246][284]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush82)
+[2017.12.27-16.16.53:565][223]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-16.19.36:116][833]Cmd: TRANSACTION UNDO
+[2017.12.27-16.19.36:116][833]LogEditorTransaction: Undo Scale Actors
+[2017.12.27-16.19.36:146][833]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush50.BrushComponent0) Component already registered.
+[2017.12.27-16.19.36:146][833]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush51.BrushComponent0) Component already registered.
+[2017.12.27-16.19.36:147][833]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush53.BrushComponent0) Component already registered.
+[2017.12.27-16.19.36:147][833]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush54.BrushComponent0) Component already registered.
+[2017.12.27-16.19.36:147][833]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush43.BrushComponent0) Component already registered.
+[2017.12.27-16.19.36:147][833]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush44.BrushComponent0) Component already registered.
+[2017.12.27-16.19.36:147][833]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush46.BrushComponent0) Component already registered.
+[2017.12.27-16.19.59:557][308]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-16.21.12:802][338]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush83)
+[2017.12.27-16.21.30:759][240]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.27-16.21.30:759][240]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.27-16.22.01:969][ 60]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.27-16.22.01:969][ 60]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.27-16.22.22:076][326]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush6)
+[2017.12.27-16.22.29:437][151]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-16.22.38:183][ 86]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush82)
+[2017.12.27-16.22.40:248][312]Cmd: TRANSACTION UNDO
+[2017.12.27-16.22.40:248][312]LogEditorTransaction: Undo Edit X
+[2017.12.27-16.22.40:276][312]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush76.BrushComponent0) Component already registered.
+[2017.12.27-16.22.40:276][312]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush70.BrushComponent0) Component already registered.
+[2017.12.27-16.22.40:277][312]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush79.BrushComponent0) Component already registered.
+[2017.12.27-16.22.40:277][312]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush66_108.BrushComponent0) Component already registered.
+[2017.12.27-16.22.40:277][312]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.CylinderBrush.BrushComponent0) Component already registered.
+[2017.12.27-16.22.41:930][472]Cmd: TRANSACTION UNDO
+[2017.12.27-16.22.41:930][472]LogEditorTransaction: Undo Edit Y
+[2017.12.27-16.22.41:958][472]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush76.BrushComponent0) Component already registered.
+[2017.12.27-16.22.41:959][472]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush70.BrushComponent0) Component already registered.
+[2017.12.27-16.22.41:959][472]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush79.BrushComponent0) Component already registered.
+[2017.12.27-16.22.41:959][472]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush66_108.BrushComponent0) Component already registered.
+[2017.12.27-16.22.41:960][472]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.CylinderBrush.BrushComponent0) Component already registered.
+[2017.12.27-16.22.51:881][541]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush82)
+[2017.12.27-16.22.54:431][820]Cmd: TRANSACTION UNDO
+[2017.12.27-16.22.54:431][820]LogEditorTransaction: Undo Edit X
+[2017.12.27-16.22.54:459][820]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush76.BrushComponent0) Component already registered.
+[2017.12.27-16.22.54:460][820]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush70.BrushComponent0) Component already registered.
+[2017.12.27-16.22.54:460][820]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush79.BrushComponent0) Component already registered.
+[2017.12.27-16.22.54:460][820]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush66_108.BrushComponent0) Component already registered.
+[2017.12.27-16.22.54:461][820]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.CylinderBrush.BrushComponent0) Component already registered.
+[2017.12.27-16.22.57:161][ 98]Cmd: TRANSACTION UNDO
+[2017.12.27-16.22.57:161][ 98]LogEditorTransaction: Undo Edit Z
+[2017.12.27-16.22.57:189][ 98]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush76.BrushComponent0) Component already registered.
+[2017.12.27-16.22.57:190][ 98]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush70.BrushComponent0) Component already registered.
+[2017.12.27-16.22.57:190][ 98]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush79.BrushComponent0) Component already registered.
+[2017.12.27-16.22.57:190][ 98]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush66_108.BrushComponent0) Component already registered.
+[2017.12.27-16.22.57:191][ 98]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.CylinderBrush.BrushComponent0) Component already registered.
+[2017.12.27-16.23.00:311][443]Cmd: TRANSACTION UNDO
+[2017.12.27-16.23.00:311][443]LogEditorTransaction: Undo Edit Y
+[2017.12.27-16.23.00:339][443]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush76.BrushComponent0) Component already registered.
+[2017.12.27-16.23.00:339][443]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush70.BrushComponent0) Component already registered.
+[2017.12.27-16.23.00:340][443]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush79.BrushComponent0) Component already registered.
+[2017.12.27-16.23.00:340][443]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush66_108.BrushComponent0) Component already registered.
+[2017.12.27-16.23.00:340][443]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.CylinderBrush.BrushComponent0) Component already registered.
+[2017.12.27-16.23.04:018][821]Cmd: TRANSACTION UNDO
+[2017.12.27-16.23.04:018][821]LogEditorTransaction: Undo Edit Y
+[2017.12.27-16.23.04:046][821]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush76.BrushComponent0) Component already registered.
+[2017.12.27-16.23.04:047][821]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush70.BrushComponent0) Component already registered.
+[2017.12.27-16.23.04:047][821]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush79.BrushComponent0) Component already registered.
+[2017.12.27-16.23.04:048][821]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.BoxBrush66_108.BrushComponent0) Component already registered.
+[2017.12.27-16.23.04:048][821]LogActorComponent: ~FComponentReregisterContext: (/Game/B1.B1:PersistentLevel.CylinderBrush.BrushComponent0) Component already registered.
+[2017.12.27-16.23.10:713][538]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-16.23.30:782][243]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.27-16.23.30:782][243]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.27-16.24.15:322][951]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.27-16.24.15:322][951]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.27-16.25.51:615][149]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.12.27-16.27.11:742][929]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.27-16.27.11:743][929]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.27-16.27.49:895][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/B1" FILE="../../../../../../Documents/GitHub/ResearchDisaster1/Content/B1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.27-16.27.50:747][726]LogSavePackage: Save=767.99ms
+[2017.12.27-16.27.50:747][726]LogSavePackage: Moving '../../../../../../Documents/GitHub/ResearchDisaster1/Saved/B1264AA2C64CFFC99A12FF319FA1EB58DD.tmp' to '../../../../../../Documents/GitHub/ResearchDisaster1/Content/B1.umap'
+[2017.12.27-16.27.50:818][726]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/GitHub/ResearchDisaster1/Content/B1.umap
